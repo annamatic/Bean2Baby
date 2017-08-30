@@ -1,4 +1,7 @@
 # 1st Trimester To-do List
+### Find this list online by visiting https://goo.gl/ZwwvUL 
+### or scanning the below code
+
 
 - [ ] Free or reduced cost prenatal care in the US is available to those who qualify. Call 800-311-BABY (800-311-2229). This toll-free telephone number will connect you to the Health Department in your area code.
 - [ ] Start your prenatal care. Make an appointment with your midwife or primary care doctor as soon as you find out about your pregnancy, and no later than 12 weeks into your pregnancy.
