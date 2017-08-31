@@ -1,5 +1,5 @@
 # 1st Trimester To-do List
-### [Download the printable for your Pregnancy Planner here.](openideas-womenshealth/downloads/SectionSeparator-1stTrimester.pdf)
+### [Download the 1st Trimester To-do List printable here.](openideas-womenshealth/downloads/ToDoList-2-1stTrimester.pdf)
 
 - [ ] **Free or reduced cost prenatal care in the US is available to those who qualify.** Call 800-311-BABY (800-311-2229). This toll-free telephone number will connect you to the Health Department in your area code.
 - [ ] **Start your prenatal care.** Make an appointment with your midwife or primary care doctor as soon as you find out about your pregnancy, and no later than 11 weeks into your pregnancy. During your first prenatal visit, your doctor will
