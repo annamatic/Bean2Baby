@@ -1,6 +1,6 @@
 
 
-[←Welcome](#) -------------------  [1st Trimester→](/1stTrimester-ToDo.md)
+[←Welcome](#) | [1st Trimester→](/1stTrimester-ToDo.md)
 
 # Prepregnancy To-do List
 ### [Download the printable for your Pregnancy Planner here.](#)
