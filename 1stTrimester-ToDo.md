@@ -1,6 +1,6 @@
 
 
-| [Prepregnancy](/Prepregnancy-ToDo.md) | | [2nd Trimester](#) |
+[←Prepregnancy](/Prepregnancy-ToDo.md) || [2nd Trimester→](#)
 
 # 1st Trimester To-do List
 ### [Download the 1st Trimester To-do List printable here.](openideas-womenshealth/downloads/ToDoList-2-1stTrimester.pdf)
