@@ -3,7 +3,7 @@
 [←Welcome](#)  ||  [1st Trimester→](/1stTrimester-ToDo.md)
 
 # Prepregnancy To-do List
-### [Download the printable for your Pregnancy Planner here.](#)
+### [Download the printable for the Prepregnancy To-do List here.](/downloads/ToDoList-1-Prepregnancy.pdf)
 
 - [ ] **Free or reduced cost prenatal care in the US is available to those who qualify.** Call 800-311-BABY (800-311-2229). This toll-free telephone number will connect you to the Health Department in your area code.
     - Additional resources:
