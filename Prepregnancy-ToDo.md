@@ -1,5 +1,10 @@
+
+| --- | --- |
+| [Welcome](#) | [1st Trimester](openideas-womenshealth/1stTrimester-ToDo.md) |
+| --- | --- |
+
 # Prepregnancy To-do List
-### [Download the Prepregnancy To-do List printable here.](openideas-womenshealth/downloads/ToDoList-1-Prepregnancy.pdf)
+### [Download the printable for your Pregnancy Planner here.](#)
 
 - [ ] **Free or reduced cost prenatal care in the US is available to those who qualify.** Call 800-311-BABY (800-311-2229). This toll-free telephone number will connect you to the Health Department in your area code.
     - Additional resources:
@@ -26,3 +31,4 @@
     - [ ] **Restrict your exposure to food- or animal- borne illnesses like salmonella, listeria and toxoplasmosis.** 
     - Avoid exposure to foods that may contain and avoid raw or smoked meats, including rare beef, deli meat and sushi. 
     - Avoid contact with animal litter and droppings, especially those of cats or rodents (including pets).
+
