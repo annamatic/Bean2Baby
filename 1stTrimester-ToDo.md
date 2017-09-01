@@ -16,9 +16,17 @@
     - Answer your questions
 - [ ] **Talk to your doctor about any medications (including over-the-counter) or health supplements** you need to take or are considering taking.
 - [ ] **Review the appointment schedule and list of tests that your doctor recommends.** You’ll be offered your 1st ultrasound scan between 8-14 weeks. Ask to hear your baby's heartbeat!
-- [ ] **Consider where you want to give birth** when choosing your obstetrician (if your health insurance allows). 
+- [ ] **If your health insurance allows you a choice,** find out how to choose the best OB/GYN to suit your particular wants and needs, including where you want to give birth. 
+    - Additional resources:
+    - http://www.webmd.com/baby/pregnancy-choosing-obstetric-health-care-provider#1
+    - https://www.babycenter.com/0_how-to-choose-an-obstetrician_1582.bc
+    - http://www.parents.com/pregnancy/my-body/pregnancy-health/choose-an-ob-gyn-or-midwife/ 
 - [ ] **Receive text message reminders and support.** If you have an Android or iPhone smartphone, download the free Text4Baby app at www.text4baby.org
-- [ ] **Don't smoke, drink alcohol or do drugs.** Ask you doctor if you need help quitting. Visit https://smokefree.gov
+- [ ] **Don't smoke, drink alcohol or do drugs.** Ask you doctor if you need help quitting. 
+    - Additional resources:
+    - https://smokefree.gov
+    - http://www.marchofdimes.org/pregnancy/street-drugs-and-pregnancy.aspx
+    - http://www.healthline.com/health/pregnancy/alcohol-drugs#overview1
 - [ ] **Stay healthy and safe!** Visit https://www.womenshealth.gov/pregnancy/youre-pregnant-now-what/staying-healthy-and-safe#1 for more information. Staying healthy and safe means:
     - [ ] **Eat a healthy diet, and exercise and start taking folic acid supplements.** 
     - Take 400 to 800 mcg (0.4 to 0.8 mg) of folic acid every day to lower the risk of some birth defects of the brain and spine. Folic acid is most important in the early stages of pregnancy, but you should continue taking folic acid throughout pregnancy.
