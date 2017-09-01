@@ -14,6 +14,8 @@
     - Check your blood pressure, height, and weight
     - Calculate your due date
     - Answer your questions
+    - Additional resources:
+    - https://www.womenshealth.gov/pregnancy/youre-pregnant-now-what/prenatal-care-and-tests
 - [ ] **Talk to your doctor about any medications (including over-the-counter) or health supplements** you need to take or are considering taking.
 - [ ] **Review the appointment schedule and list of tests that your doctor recommends.** You’ll be offered your 1st ultrasound scan between 8-14 weeks. Ask to hear your baby's heartbeat!
 - [ ] **If your health insurance allows you a choice,** find out how to choose the best OB/GYN to suit your particular wants and needs, including where you want to give birth. 
