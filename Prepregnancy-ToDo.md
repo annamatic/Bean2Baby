@@ -13,7 +13,7 @@
 - [ ] **Talk with your doctor!** Make an appointment with your primary care doctor to discuss your plans, hopes and concerns. Discuss with your doctor whether any medications (including over-the-counter) or health supplements you are taking should be continued or stopped.
     - Additional resources:
     - https://www.womenshealth.gov/pregnancy/you-get-pregnant
-- [ ] **If your health insurance allows you a choice,** find out how to choose the best OB/GYN to suit your wants and needs, including where you want to give birth. 
+- [ ] **If your health insurance allows you a choice,** find out how to choose the best OB/GYN to suit your particular wants and needs, including where you want to give birth. 
     - Additional resources:
     - http://www.webmd.com/baby/pregnancy-choosing-obstetric-health-care-provider#1
     - https://www.babycenter.com/0_how-to-choose-an-obstetrician_1582.bc
@@ -21,6 +21,8 @@
 - [ ] **Don't smoke, drink alcohol or do drugs.** Ask you doctor if you need help quitting. 
     - Additional resources:
     - https://smokefree.gov
+    - http://www.marchofdimes.org/pregnancy/street-drugs-and-pregnancy.aspx
+    - http://www.healthline.com/health/pregnancy/alcohol-drugs#overview1
 - [ ] **Stay healthy and safe!** Visit https://www.womenshealth.gov/pregnancy/youre-pregnant-now-what/staying-healthy-and-safe#1 for more information. Staying healthy and safe means:
     - [ ] **Eat a healthy diet, and exercise and start taking folic acid supplements.** 
     - Take 400 to 800 mcg (0.4 to 0.8 mg) of folic acid every day to lower the risk of some birth defects of the brain and spine. Folic acid is most important in the early stages of pregnancy, but you should continue taking folic acid throughout pregnancy.
