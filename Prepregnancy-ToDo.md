@@ -26,10 +26,18 @@
 - [ ] **Stay healthy and safe!** Visit https://www.womenshealth.gov/pregnancy/youre-pregnant-now-what/staying-healthy-and-safe#1 for more information. Staying healthy and safe means:
     - [ ] **Eat a healthy diet, and exercise and start taking folic acid supplements.** 
     - Take 400 to 800 mcg (0.4 to 0.8 mg) of folic acid every day to lower the risk of some birth defects of the brain and spine. Folic acid is most important in the early stages of pregnancy, but you should continue taking folic acid throughout pregnancy.
+    - Additional resources:
+    - https://www.fns.usda.gov/wic/women-infants-and-children-wic
+    - https://www.choosemyplate.gov/MyPlate-Daily-Checklist-input
     - [ ] **Restrict your exposure to air- and food-borne industrial pollutants.** 
     - Common pollutants and chemicals to avoid include cleaners, insecticides, solvents (such as paint or nail polish thinner), lead and paint (including paint fumes). 
-    - Avoid fish that are known to contain high levels of mercury, such as swordfish, king mackerel, shark, and tilefish.  
+    - Avoid fish that are known to contain high levels of mercury, such as swordfish, king mackerel, shark, and tilefish.
+    - Additional resources:
+    - https://www.epa.gov/north-birmingham-project/stay-healthy-during-pregnancy-your-babys-sake-and-yours
+    - https://www.epa.gov/children/promoting-good-prenatal-health-air-pollution-and-pregnancy-january-2010
+    - https://www.epa.gov/lead/learn-about-lead
     - [ ] **Restrict your exposure to food- or animal- borne illnesses like salmonella, listeria and toxoplasmosis.** 
     - Avoid exposure to foods that may contain and avoid raw or smoked meats, including rare beef, deli meat and sushi. 
     - Avoid contact with animal litter and droppings, especially those of cats or rodents (including pets).
+ - [ ] **How will you know when you're pregnant?**
 
