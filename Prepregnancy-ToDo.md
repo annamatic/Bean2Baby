@@ -19,7 +19,7 @@
 - [ ] **Talk with your doctor!** Make an appointment with your primary care doctor to discuss your plans, hopes and concerns. Discuss with your doctor whether any medications (including over-the-counter) or health supplements you are taking should be continued or stopped.
     - Additional resources:
     - https://www.womenshealth.gov/pregnancy/you-get-pregnant
-    - https://www.fda.gov/ForConsumers/ByAudience/ForWomen/ucm118567.htm
+    - https://healthfinder.gov/HealthTopics/Dispatch.aspx?q1=pregnancy&q2=doctor-and-midwife-visits&q3=have-a-healthy-pregnancy
     
 - [ ] **Do you know where you want to give birth?** Your health insurance or life situation may allow you a choice of whether to give birth at home or in a hospital setting. Research and consider the pros and cons to choose the best healthcare provider for your needs.
     - Additional resources:
@@ -58,6 +58,12 @@
     - [ ] **Restrict your exposure to food- or animal- borne illnesses like salmonella, listeria and toxoplasmosis.** 
     - Avoid exposure to foods that may contain and avoid raw or smoked meats, including rare beef, deli meat and sushi. 
     - Avoid contact with animal litter and droppings, especially those of cats or rodents (including pets).
+    - Additional resources:
+    - https://www.foodsafety.gov/risk/pregnant/chklist_pregnancy.html
+    - https://www.fda.gov/Food/FoodborneIllnessContaminants/PeopleAtRisk/ucm117561.htm
+    - https://www.fda.gov/Food/ResourcesForYou/Consumers/ucm393070.htm
+    - http://mothertobaby.org/fact-sheets-parent/
+    - http://americanpregnancy.org/is-it-safe/
     
  - [ ] **Get help for violence.** Reach out to a local resource for help.
     - Additional resources:
