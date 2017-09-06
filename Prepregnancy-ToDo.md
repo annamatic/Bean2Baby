@@ -64,19 +64,18 @@
     - https://www.fda.gov/Food/ResourcesForYou/Consumers/ucm393070.htm
     - http://mothertobaby.org/fact-sheets-parent/
     - http://americanpregnancy.org/is-it-safe/
+     - [ ] **Reduce stress and take care of your mental health**
+    - Additional resources:
+    - SAMHSA’s National Helpline, 1-800-662-HELP (4357)
+    - http://www.mentalhealthamerica.net/im-looking-mental-health-help-myself
+    - https://www.nimh.nih.gov/health/find-help/index.shtml
     
  - [ ] **Get help for violence.** Reach out to a local resource for help.
     - Additional resources:
     - https://www.cdc.gov/ViolencePrevention/index.html
     - http://nnedv.org/resources/coalitions.html
     - https://www.domesticshelters.org/search
-    - http://www.welfareinfo.org/shelters/
-    
- - [ ] **Get mentally healthy.**
-    - Additional resources:
-    - SAMHSA’s National Helpline, 1-800-662-HELP (4357)
-    - http://www.mentalhealthamerica.net/im-looking-mental-health-help-myself
-    - https://www.nimh.nih.gov/health/find-help/index.shtml
+    - http://www.welfareinfo.org/shelters/    
     
  - [ ] **Learn your family health history**
     - Additional resources:
