@@ -9,30 +9,37 @@
     - Additional resources:
     - https://www.cdc.gov/preconception/planning.html
     - https://www.cdc.gov/preconception/freematerials-health-edu.html
+    
 - [ ] **Free or reduced cost prenatal care in the US is available to those who qualify.** Call 800-311-BABY (800-311-2229). This toll-free telephone number will connect you to the Health Department in your area code.
     - Additional resources:
     - https://www.healthcare.gov/what-if-im-pregnant-or-plan-to-get-pregnant/
     - https://www.ehealthinsurance.com/maternity-insurance-coverage
     - http://www.webmd.com/health-insurance/aca-pregnancy-faq#1
+    
 - [ ] **Talk with your doctor!** Make an appointment with your primary care doctor to discuss your plans, hopes and concerns. Discuss with your doctor whether any medications (including over-the-counter) or health supplements you are taking should be continued or stopped.
     - Additional resources:
     - https://www.womenshealth.gov/pregnancy/you-get-pregnant
-- [ ] **Where do you want to give birth?** Your health insurance or life situation may allow you a choice of whether to give birth at home or in a hospital setting. Research and consider the pros and cons to choose the best healthcare provider for your needs.
+    - https://www.fda.gov/ForConsumers/ByAudience/ForWomen/ucm118567.htm
+    
+- [ ] **Do you know where you want to give birth?** Your health insurance or life situation may allow you a choice of whether to give birth at home or in a hospital setting. Research and consider the pros and cons to choose the best healthcare provider for your needs.
     - Additional resources:
     - http://www.webmd.com/baby/pregnancy-choosing-obstetric-health-care-provider#1
     - https://www.babycenter.com/0_how-to-choose-an-obstetrician_1582.bc
     - http://www.parents.com/pregnancy/my-body/pregnancy-health/choose-an-ob-gyn-or-midwife/
-- [ ] **Don’t smoke, drink alcohol or do drugs. If you have an addiction,** your doctor can refer you to resources to help you quit.
+    
+- [ ] **Don’t smoke, drink alcohol or do drugs. If you have an addiction,** your doctor can refer you to resources to help you quit. You can also call the Substance Abuse and Mental Health Services Administration National Helpline at 1-800-662-HELP(4357) to be connected to a local service.
     - Additional resources:
     - https://smokefree.gov
+    - https://findtreatment.samhsa.gov/
     - http://www.marchofdimes.org/pregnancy/street-drugs-and-pregnancy.aspx
     - http://www.healthline.com/health/pregnancy/alcohol-drugs#overview1
+
 - [ ] **Stay healthy!** 
 - Additional resources:
 - https://www.healthychildren.org/english/ages-stages/prenatal/pages/default.aspx
 - https://www.womenshealth.gov/pregnancy/youre-pregnant-now-what/staying-healthy-and-safe#1 
 - http://www.welfareinfo.org/help/food-stamps
-- Staying healthy and safe means:
+- Staying healthy means:
     - [ ] **Eat a healthy diet, and exercise and start taking folic acid supplements.** 
     - Source a range of foods for a nutritious and balanced diet, make time in your schedule to exercise regularly.
     - Additional resources:
@@ -51,15 +58,24 @@
     - [ ] **Restrict your exposure to food- or animal- borne illnesses like salmonella, listeria and toxoplasmosis.** 
     - Avoid exposure to foods that may contain and avoid raw or smoked meats, including rare beef, deli meat and sushi. 
     - Avoid contact with animal litter and droppings, especially those of cats or rodents (including pets).
+    
  - [ ] **Get help for violence.** Reach out to a local resource for help.
     - Additional resources:
     - https://www.cdc.gov/ViolencePrevention/index.html
     - http://nnedv.org/resources/coalitions.html
     - https://www.domesticshelters.org/search
     - http://www.welfareinfo.org/shelters/
+    
+ - [ ] **Get mentally healthy.**
+    - Additional resources:
+    - SAMHSA’s National Helpline, 1-800-662-HELP (4357)
+    - http://www.mentalhealthamerica.net/im-looking-mental-health-help-myself
+    - https://www.nimh.nih.gov/health/find-help/index.shtml
+    
  - [ ] **Learn your family health history**
     - Additional resources:
     - https://www.cdc.gov/genomics/famhistory/famhist_plan_pregnancy.htm
+    
  - [ ] **How will you know when you're pregnant?**
     - Additional resources
     - https://www.womenshealth.gov/files/documents/pregnancy-test-fact-sheet.pdf
