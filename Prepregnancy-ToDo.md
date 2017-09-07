@@ -11,13 +11,13 @@
     - https://www.cdc.gov/preconception/freematerials-health-edu.html
     
 - [ ] **Plan your finances and make sure you have adequate insurance coverage** Calculate the medical costs of prenatal care and birth. 
-    - [ ] **If you already have health insurance**, become familiar with any co-pays, co-insurance and deductibles that will affect your wallet, in addition to its coverage in case of complications. Your doctor, employer benefits office and insurance provider can help you calculate the total cost.
+    - [ ] **If you already have health insurance**, become familiar with any co-pays, co-insurance and deductibles that will affect your wallet, in addition to the scope of your insurance's coverage in case of complications. Your doctor, employer benefits office and insurance provider can help you calculate the total cost.
     - Additional resources:
     - https://www.whattoexpect.com/pregnancy/pregnancy-costs/
     - http://www.webmd.com/baby/news/20070612/maternity-gap-high-deductable-plans#1
     - https://www.policygenius.com/blog/how-to-pick-the-right-health-insurance-policy-when-pregnant/
     - http://www.sheknows.com/parenting/articles/989249/maternity-health-insurance-coverage-adequate
-    - [ ] **Free or reduced cost prenatal care in the US is available to those who qualify.** Be aware of the application deadlines and call 800-311-BABY (800-311-2229) to be connected to the Health Department in your area code. 
+    - [ ] **If you do not have health insurance, free or reduced cost prenatal care in the US is available to those who qualify.** Be aware of the application deadlines and call 800-311-BABY (800-311-2229) to be connected to the Health Department in your area code. 
     - Additional resources:
     - https://www.healthcare.gov/quick-guide/dates-and-deadlines/
     - https://www.healthcare.gov/what-if-im-pregnant-or-plan-to-get-pregnant/
