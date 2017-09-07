@@ -13,6 +13,7 @@
 - [ ] **Plan your finances and make sure you have adequate insurance coverage** Calculate the medical costs of prenatal care and birth. 
     - [ ] **If you already have health insurance**, become familiar with any co-pays, co-insurance and deductibles that will affect your wallet, in addition to its coverage in case of complications. Your doctor, employer benefits office and insurance provider can help you calculate the total cost.
     - Additional resources:
+    - https://www.whattoexpect.com/pregnancy/pregnancy-costs/
     - http://www.webmd.com/baby/news/20070612/maternity-gap-high-deductable-plans#1
     - https://www.policygenius.com/blog/how-to-pick-the-right-health-insurance-policy-when-pregnant/
     - http://www.sheknows.com/parenting/articles/989249/maternity-health-insurance-coverage-adequate
