@@ -24,7 +24,7 @@
     - http://www.webmd.com/health-insurance/aca-pregnancy-faq#1
     - [ ] **Learn about other non-insurance ways to manage healthcare costs**
     - Additional resources:
-    - http://www.birthcenters.org/fabc/index.php
+    - http://www.birthcenters.org/search/custom.asp?id=2926
     - http://americanpregnancy.org/planning/maternity-insurance-for-pregnant-women/
     
 - [ ] **Talk with your doctor!** Make an appointment with your primary care doctor to discuss your plans, hopes and concerns. Discuss with your doctor whether any medications (including over-the-counter) or health supplements you are taking should be continued or stopped.
@@ -37,6 +37,7 @@
     - http://www.webmd.com/baby/pregnancy-choosing-obstetric-health-care-provider#1
     - https://www.babycenter.com/0_how-to-choose-an-obstetrician_1582.bc
     - http://www.parents.com/pregnancy/my-body/pregnancy-health/choose-an-ob-gyn-or-midwife/
+    - http://www.birthcenters.org/search/custom.asp?id=2926
     
 - [ ] **Don’t smoke, drink alcohol or do drugs. If you have an addiction,** your doctor can refer you to resources to help you quit. You can also call the Substance Abuse and Mental Health Services Administration National Helpline at 1-800-662-HELP(4357) to be connected to a local service.
     - Additional resources:
