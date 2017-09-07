@@ -60,13 +60,29 @@
     - https://www.fda.gov/Food/ResourcesForYou/Consumers/ucm393070.htm
     - http://mothertobaby.org/fact-sheets-parent/
     - http://americanpregnancy.org/is-it-safe/
+     - [ ] **Reduce stress and take care of your mental health**
+    - Additional resources:
+    - SAMHSA’s National Helpline, 1-800-662-HELP (4357)
+    - http://www.mentalhealthamerica.net/im-looking-mental-health-help-myself
+    - https://www.nimh.nih.gov/health/find-help/index.shtml
     
- - [ ] **Your body is changing.** Learn which changes are normal and how to reduce any discomfort you feel. If something is bothering or worrying you, don't wait to call your doctor or midwife. Sometimes physical changes can be signs of a problem.
+- [ ] **Your body is changing.** Learn which changes are normal and how to reduce any discomfort you feel. If something is bothering or worrying you, don't wait to call your doctor or midwife. Sometimes physical changes can be signs of a problem.
     - Additional resources:
     - https://www.womenshealth.gov/pregnancy/youre-pregnant-now-what/body-changes-and-discomforts
     - https://www.womenshealth.gov/pregnancy/youre-pregnant-now-what/stages-pregnancy
     - https://www.womenshealth.gov/pregnancy/youre-pregnant-now-what/pregnancy-complications
+
+ - [ ] **Get help for violence.** Reach out to a local resource for help.
+    - Additional resources:
+    - https://www.cdc.gov/ViolencePrevention/index.html
+    - http://nnedv.org/resources/coalitions.html
+    - https://www.domesticshelters.org/search
+    - http://www.welfareinfo.org/shelters/    
     
- - [ ] **Know your pregnancy rights**
+ - [ ] **Learn your family health history**
+    - Additional resources:
+    - https://www.cdc.gov/genomics/famhistory/famhist_plan_pregnancy.htm
+    
+- [ ] **Know your pregnancy rights**
     - Additional resources:
     - https://www.womenshealth.gov/pregnancy/youre-pregnant-now-what/know-your-pregnancy-rights
