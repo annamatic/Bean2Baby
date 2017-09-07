@@ -10,8 +10,9 @@
     - https://www.cdc.gov/preconception/planning.html
     - https://www.cdc.gov/preconception/freematerials-health-edu.html
     
-- [ ] **Free or reduced cost prenatal care in the US is available to those who qualify.** Call 800-311-BABY (800-311-2229). This toll-free telephone number will connect you to the Health Department in your area code.
+- [ ] **Free or reduced cost prenatal care in the US is available to those who qualify.** Be aware of the application deadlines and call 800-311-BABY (800-311-2229) to be connected to the Health Department in your area code.
     - Additional resources:
+    - https://www.healthcare.gov/quick-guide/dates-and-deadlines/
     - https://www.healthcare.gov/what-if-im-pregnant-or-plan-to-get-pregnant/
     - https://www.ehealthinsurance.com/maternity-insurance-coverage
     - http://www.webmd.com/health-insurance/aca-pregnancy-faq#1
