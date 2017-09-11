@@ -1,6 +1,4 @@
 ---
-title: This is my title
-layout: post
 ---
 
 [←Main Index](/To-doLists.md)  |  [1st Trimester→](/1stTrimester-ToDo.md)
