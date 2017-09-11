@@ -5,7 +5,8 @@
 # Prepregnancy To-do List
 ### [Download the printable for this Prepregnancy To-do List here.](/downloads/ToDoList-1-Prepregnancy.pdf)
 
-:white_medium_small_square: **Want to get ready for pregnancy? Make a plan!** The first and most important thing your baby will need is for your body to be healthy. 
+:white_medium_small_square: **Want to get ready for pregnancy? Make a plan!** 
+<p>The first and most important thing your baby will need is for your body to be healthy.</p>
     - Additional resources:
     - [www.cdc.gov/preconception/planning.html](https://www.cdc.gov/preconception/planning.html)
     - [www.cdc.gov/preconception/freematerials-health-edu.html](https://www.cdc.gov/preconception/freematerials-health-edu.html)
