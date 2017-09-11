@@ -11,22 +11,22 @@ The first and most important thing your baby will need is for your body to be he
     * ["Planning" at www.cdc.gov/preconception](https://www.cdc.gov/preconception/planning.html)  
     * ["Free Materials" at www.cdc.gov/preconception](https://www.cdc.gov/preconception/freematerials-health-edu.html)  
     
-:white_large_square: **Plan your finances and make sure you have adequate insurance coverage** Calculate the medical costs of prenatal care and birth. 
-    * :white_medium_small_square: **If you already have health insurance**, become familiar with any co-pays, co-insurance and deductibles that will affect your wallet, in addition to the scope of your insurance's coverage in case of complications. Your doctor, employer benefits office and insurance provider can help you calculate the total cost.
-    * Additional resources:
-    * ["Pregnancy Costs" at www.whattoexpect.com](https://www.whattoexpect.com/pregnancy/pregnancy-costs/)
-    * ["Maternity Gap High Deductible Plans" at www.webmd.com](http://www.webmd.com/baby/news/20070612/maternity-gap-high-deductable-plans#1)
-    * ["How to Pick the Right Health Insurance Policy When Pregnant" at www.policygenius.com](https://www.policygenius.com/blog/how-to-pick-the-right-health-insurance-policy-when-pregnant/)
-    * ["Maternity Health Insurance Coverage" at www.sheknows.com](http://www.sheknows.com/parenting/articles/989249/maternity-health-insurance-coverage-adequate)
-    * :white_medium_small_square: **If you do not have health insurance, free or reduced cost prenatal care in the US is available to those who qualify.** Be aware of the application deadlines and call 800-311-BABY (800-311-2229) to be connected to the Health Department in your area code. 
-    - Additional resources:
-    - (https://www.healthcare.gov/quick-guide/dates-and-deadlines/)
-    - (https://www.healthcare.gov/what-if-im-pregnant-or-plan-to-get-pregnant/)
-    - (http://www.webmd.com/health-insurance/aca-pregnancy-faq#1)
-    - :white_medium_small_square: **Learn about other non-insurance ways to manage healthcare costs**
-    - Additional resources:
-    - http://www.birthcenters.org/search/custom.asp?id=2926
-    - http://americanpregnancy.org/planning/maternity-insurance-for-pregnant-women/
+:white_large_square: **Plan your finances and make sure you have adequate insurance coverage** Calculate the medical costs of prenatal care and birth.  
+    * :white_medium_small_square: **If you already have health insurance**, become familiar with any co-pays, co-insurance and deductibles that will affect your wallet, in addition to the scope of your insurance's coverage in case of complications. Your doctor, employer benefits office and insurance provider can help you calculate the total cost.  
+    * Additional resources:  
+    * ["Pregnancy Costs" at www.whattoexpect.com](https://www.whattoexpect.com/pregnancy/pregnancy-costs/)  
+    * ["Maternity Gap High Deductible Plans" at www.webmd.com](http://www.webmd.com/baby/news/20070612/maternity-gap-high-deductable-plans#1)  
+    * ["How to Pick the Right Health Insurance Policy When Pregnant" at www.policygenius.com](https://www.policygenius.com/blog/how-to-pick-the-right-health-insurance-policy-when-pregnant/)  
+    * ["Maternity Health Insurance Coverage" at www.sheknows.com](http://www.sheknows.com/parenting/articles/989249/maternity-health-insurance-coverage-adequate)  
+    * :white_medium_small_square: **If you do not have health insurance, free or reduced cost prenatal care in the US is available to those who qualify.** Be aware of the application deadlines and call 800-311-BABY (800-311-2229) to be connected to the Health Department in your area code.  
+    * Additional resources:  
+    * ["Quick Guide: Dates and Deadlines" at www.healthcare.gov](https://www.healthcare.gov/quick-guide/dates-and-deadlines/)  
+    * ["What if I'm Pregnant or Plan to Get Pregnant" at www.healthcare.gov](https://www.healthcare.gov/what-if-im-pregnant-or-plan-to-get-pregnant/)  
+    * ["ACA Pregnancy FAQ" at www.webmd.com](http://www.webmd.com/health-insurance/aca-pregnancy-faq#1)  
+    * :white_medium_small_square: **Learn about other non-insurance ways to manage healthcare costs**  
+    * Additional resources:  
+    * ["Find a Birth Center" at "www.birthcenters.org"](http://www.birthcenters.org/search/custom.asp?id=2926)  
+    * ["Maternity Insurance for Pregnant Women" at americanpregnancy.org](http://americanpregnancy.org/planning/maternity-insurance-for-pregnant-women/)  
     
 :white_large_square: **Talk with your doctor!** Make an appointment with your primary care doctor to discuss your plans, hopes and concerns. Discuss with your doctor whether any medications (including over-the-counter) or health supplements you are taking should be continued or stopped.
     - Additional resources:
