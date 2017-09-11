@@ -21,7 +21,7 @@ The first and most important thing your baby will need is for your body to be he
     - ["Maternity Health Insurance Coverage" at www.sheknows.com](http://www.sheknows.com/parenting/articles/989249/maternity-health-insurance-coverage-adequate)
     - :white_medium_small_square: **If you do not have health insurance, free or reduced cost prenatal care in the US is available to those who qualify.** Be aware of the application deadlines and call 800-311-BABY (800-311-2229) to be connected to the Health Department in your area code. 
     - Additional resources:
-    - https://www.healthcare.gov/quick-guide/dates-and-deadlines/
+    - (https://www.healthcare.gov/quick-guide/dates-and-deadlines/)
     - https://www.healthcare.gov/what-if-im-pregnant-or-plan-to-get-pregnant/
     - http://www.webmd.com/health-insurance/aca-pregnancy-faq#1
     - :white_medium_small_square: **Learn about other non-insurance ways to manage healthcare costs**
