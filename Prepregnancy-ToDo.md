@@ -4,13 +4,13 @@
 # Prepregnancy To-do List
 ### [Download the printable for this Prepregnancy To-do List here.](/downloads/ToDoList-1-Prepregnancy.pdf)
 
-:white_large_square: **Want to get ready for pregnancy? Make a plan!** 
+- [ ] **Want to get ready for pregnancy? Make a plan!** 
 The first and most important thing your baby will need is for your body to be healthy.  
-    * Additional resources:  
-    * ["Planning" at www.cdc.gov/preconception](https://www.cdc.gov/preconception/planning.html)  
-    * ["Free Materials" at www.cdc.gov/preconception](https://www.cdc.gov/preconception/freematerials-health-edu.html)  
+    - Additional resources:  
+    - ["Planning" at www.cdc.gov/preconception](https://www.cdc.gov/preconception/planning.html)  
+    - ["Free Materials" at www.cdc.gov/preconception](https://www.cdc.gov/preconception/freematerials-health-edu.html)  
     
-:white_large_square: **Plan your finances and make sure you have adequate insurance coverage** Calculate the medical costs of prenatal care and birth.  
+- [ ] **Plan your finances and make sure you have adequate insurance coverage** Calculate the medical costs of prenatal care and birth.  
     * :white_medium_small_square: **If you already have health insurance**, become familiar with any co-pays, co-insurance and deductibles that will affect your wallet, in addition to the scope of your insurance's coverage in case of complications. Your doctor, employer benefits office and insurance provider can help you calculate the total cost.  
     * Additional resources:  
     * ["Pregnancy Costs" at www.whattoexpect.com](https://www.whattoexpect.com/pregnancy/pregnancy-costs/)  
