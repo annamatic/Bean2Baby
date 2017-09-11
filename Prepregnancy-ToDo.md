@@ -6,14 +6,14 @@
 # Prepregnancy To-do List
 ### [Download the printable for this Prepregnancy To-do List here.](/downloads/ToDoList-1-Prepregnancy.pdf)
 
-:white_medium_small_square: **Want to get ready for pregnancy? Make a plan!** 
-<p>The first and most important thing your baby will need is for your body to be healthy.</p>
+- [ ] **Want to get ready for pregnancy? Make a plan!** 
+The first and most important thing your baby will need is for your body to be healthy.
     - Additional resources:
     - [www.cdc.gov/preconception/planning.html](https://www.cdc.gov/preconception/planning.html)
     - [www.cdc.gov/preconception/freematerials-health-edu.html](https://www.cdc.gov/preconception/freematerials-health-edu.html)
     
-:white_medium_small_square: **Plan your finances and make sure you have adequate insurance coverage** Calculate the medical costs of prenatal care and birth. 
-    - :white_medium_small_square: **If you already have health insurance**, become familiar with any co-pays, co-insurance and deductibles that will affect your wallet, in addition to the scope of your insurance's coverage in case of complications. Your doctor, employer benefits office and insurance provider can help you calculate the total cost.
+- [ ] **Plan your finances and make sure you have adequate insurance coverage** Calculate the medical costs of prenatal care and birth. 
+    - [ ] **If you already have health insurance**, become familiar with any co-pays, co-insurance and deductibles that will affect your wallet, in addition to the scope of your insurance's coverage in case of complications. Your doctor, employer benefits office and insurance provider can help you calculate the total cost.
     - Additional resources:
     - https://www.whattoexpect.com/pregnancy/pregnancy-costs/
     - http://www.webmd.com/baby/news/20070612/maternity-gap-high-deductable-plans#1
