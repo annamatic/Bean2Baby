@@ -17,10 +17,13 @@ The first and most important thing your baby will need is for your body to be he
     - ["Maternity Gap High Deductible Plans" at www.webmd.com](http://www.webmd.com/baby/news/20070612/maternity-gap-high-deductable-plans#1)  
     - ["How to Pick the Right Health Insurance Policy When Pregnant" at www.policygenius.com](https://www.policygenius.com/blog/how-to-pick-the-right-health-insurance-policy-when-pregnant/)  
     - ["Maternity Health Insurance Coverage" at www.sheknows.com](http://www.sheknows.com/parenting/articles/989249/maternity-health-insurance-coverage-adequate)  
-    - [ ] **If you do not have health insurance, free or reduced cost prenatal care in the US is available to those who qualify.** Be aware of the application deadlines and call 800-311-BABY (800-311-2229) to be connected to the Health Department in your area code.  
+    - [ ] **If you do not have health insurance, free or reduced cost prenatal care in the US is available to those who qualify.** Be aware of the application deadlines and call 800-311-BABY (800-311-2229) *as soon as possible* after your loss of coverage to be connected to the Health Department in your area code. You can also [find out if you can still get 2017 health coverage at the www.healthcare.gov screener](https://www.healthcare.gov/screener/). 
     - Additional resources:  
     - ["Quick Guide: Dates and Deadlines" at www.healthcare.gov](https://www.healthcare.gov/quick-guide/dates-and-deadlines/)  
     - ["What if I'm Pregnant or Plan to Get Pregnant" at www.healthcare.gov](https://www.healthcare.gov/what-if-im-pregnant-or-plan-to-get-pregnant/)  
+    - ["See if you qualify for Medicaid based on income alone" at www.healthcare.gov](https://www.healthcare.gov/Medicaid-chip/getting-medicaid-chip/)
+    - ["The Open Enrollment Period for 2018 is just 45 days from Nov 1 - Dec 15, 2017"](https://www.healthcare.gov/quick-guide/dates-and-deadlines/)
+    - [Find out if you qualify to enroll outside of the Open Enrollment Period at www.healthcare.gov](https://www.healthcare.gov/glossary/qualifying-life-event/)
     - ["ACA Pregnancy FAQ" at www.webmd.com](http://www.webmd.com/health-insurance/aca-pregnancy-faq#1)  
     - [ ] **Learn about other non-insurance ways to manage healthcare costs**  
     - Additional resources:  
