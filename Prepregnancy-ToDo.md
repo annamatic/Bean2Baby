@@ -29,71 +29,72 @@ The first and most important thing your baby will need is for your body to be he
     
 - [ ] **Talk with your doctor!** Make an appointment with your primary care doctor to discuss your plans, hopes and concerns. Discuss with your doctor whether any medications (including over-the-counter) or health supplements you are taking should be continued or stopped.
     - Additional resources:
-    - https://www.womenshealth.gov/pregnancy/you-get-pregnant
-    - https://healthfinder.gov/HealthTopics/Dispatch.aspx?q1=pregnancy&q2=doctor-and-midwife-visits&q3=have-a-healthy-pregnancy
+    - ["You Get Pregnant" at www.womenshealth.gov](https://www.womenshealth.gov/pregnancy/you-get-pregnant)
+    - ["Have a Healthy Pregnancy" at "healthfinder.gov](https://healthfinder.gov/HealthTopics/Dispatch.aspx?q1=pregnancy&q2=doctor-and-midwife-visits&q3=have-a-healthy-pregnancy)
     
 - [ ] **Do you know where you want to give birth?** Your health insurance or life situation may allow you a choice of whether to give birth at home or in a hospital setting. Research and consider the pros and cons to choose the best healthcare provider for your needs.
     - Additional resources:
-    - http://www.webmd.com/baby/pregnancy-choosing-obstetric-health-care-provider#1
-    - https://www.babycenter.com/0_how-to-choose-an-obstetrician_1582.bc
-    - http://www.parents.com/pregnancy/my-body/pregnancy-health/choose-an-ob-gyn-or-midwife/
-    - http://www.birthcenters.org/search/custom.asp?id=2926
+    - ["Choosing an Obstetric Health Care Provider" at www.webmd.com](http://www.webmd.com/baby/pregnancy-choosing-obstetric-health-care-provider#1)
+    - ["How to Choose an Obstetrician" at www.babycenter.com](https://www.babycenter.com/0_how-to-choose-an-obstetrician_1582.bc)
+    - ["Choose an OB/GYN or Midwife" at www.parents.com](http://www.parents.com/pregnancy/my-body/pregnancy-health/choose-an-ob-gyn-or-midwife/)
+    - ["Find a Birth Center" at www.birthcenters.org](http://www.birthcenters.org/search/custom.asp?id=2926)
     
 - [ ] **Don’t smoke, drink alcohol or do drugs. If you have an addiction,** your doctor can refer you to resources to help you quit. You can also call the Substance Abuse and Mental Health Services Administration National Helpline at 1-800-662-HELP(4357) to be connected to a local service.
     - Additional resources:
-    - https://smokefree.gov
-    - https://findtreatment.samhsa.gov/
-    - http://www.marchofdimes.org/pregnancy/street-drugs-and-pregnancy.aspx
-    - http://www.healthline.com/health/pregnancy/alcohol-drugs#overview1
+    - [smokefree.gov](https://smokefree.gov)
+    - [Substance Abuse and Mental Health Services Administration at findtreatment.samhsa.gov](https://findtreatment.samhsa.gov/)
+    - ["Street Drugs and Pregnancy" at www.marchofdimes.org](http://www.marchofdimes.org/pregnancy/street-drugs-and-pregnancy.aspx)
+    - ["Alcohol and Drugs Overview" at www.healthline.com](http://www.healthline.com/health/pregnancy/alcohol-drugs#overview1)
 
 - [ ] **Stay healthy!** 
 - Additional resources:
-- https://www.healthychildren.org/english/ages-stages/prenatal/pages/default.aspx
-- https://www.womenshealth.gov/pregnancy/youre-pregnant-now-what/staying-healthy-and-safe#1 
-- http://www.welfareinfo.org/help/food-stamps
+- ["Prenatal" at www.healthychildren.org](https://www.healthychildren.org/english/ages-stages/prenatal/pages/default.aspx)
+- ["Staying Healthy and Safe" at www.womenshealth.gov](https://www.womenshealth.gov/pregnancy/youre-pregnant-now-what/staying-healthy-and-safe#1) 
+- ["Food Stamps" at www.welfareinfo.org](http://www.welfareinfo.org/help/food-stamps)
 - Staying healthy means:
     - [ ] **Eat a healthy diet, and exercise and start taking folic acid supplements.** 
     - Source a range of foods for a nutritious and balanced diet, make time in your schedule to exercise regularly.
     - Additional resources:
-    - https://www.fns.usda.gov/wic/women-infants-and-children-wic
-    - https://www.choosemyplate.gov/MyPlate-Daily-Checklist-input
+    - ["Women, Infants and Children (WIC) at www.fns.usda.gov](https://www.fns.usda.gov/wic/women-infants-and-children-wic)
+    - ["MyPlate Daily Checklist" at www.choosemyplate.gov](https://www.choosemyplate.gov/MyPlate-Daily-Checklist-input)
     - Take 400 to 800 mcg (0.4 to 0.8 mg) of folic acid every day to lower the risk of some birth defects of the brain and spine. Folic acid is most important in the early stages of pregnancy, but you should continue taking folic acid throughout pregnancy.
     - Additional resources:
-    - http://www.marchofdimes.org/pregnancy/folic-acid.aspx
+    - ["Folic Acid" at www.marchofdimes.org](http://www.marchofdimes.org/pregnancy/folic-acid.aspx)
     - [ ] **Restrict your exposure to air- and food-borne industrial pollutants.** 
     - Common pollutants and chemicals to avoid include cleaners, insecticides, solvents (such as paint or nail polish thinner), lead and paint (including paint fumes). 
     - Avoid fish that are known to contain high levels of mercury, such as swordfish, king mackerel, shark, and tilefish.
     - Additional resources:
-    - https://www.epa.gov/north-birmingham-project/stay-healthy-during-pregnancy-your-babys-sake-and-yours
-    - https://www.epa.gov/children/promoting-good-prenatal-health-air-pollution-and-pregnancy-january-2010
-    - https://www.epa.gov/lead/learn-about-lead
+    - ["Stay Healthy During Pregnancy..." at www.epa.gov](https://www.epa.gov/north-birmingham-project/stay-healthy-during-pregnancy-your-babys-sake-and-yours)
+    - ["Promoting Good Prenatal Health..." at www.epa.gov](https://www.epa.gov/children/promoting-good-prenatal-health-air-pollution-and-pregnancy-january-2010)
+    - ["Learn About Lead" at www.epa.gov](https://www.epa.gov/lead/learn-about-lead)
     - [ ] **Restrict your exposure to food- or animal- borne illnesses like salmonella, listeria and toxoplasmosis.** 
     - Avoid exposure to foods that may contain and avoid raw or smoked meats, including rare beef, deli meat and sushi. 
     - Avoid contact with animal litter and droppings, especially those of cats or rodents (including pets).
     - Additional resources:
-    - https://www.foodsafety.gov/risk/pregnant/chklist_pregnancy.html
-    - https://www.fda.gov/Food/FoodborneIllnessContaminants/PeopleAtRisk/ucm117561.htm
-    - https://www.fda.gov/Food/ResourcesForYou/Consumers/ucm393070.htm
-    - http://mothertobaby.org/fact-sheets-parent/
-    - http://americanpregnancy.org/is-it-safe/
+    - ["Pregnancy Checklist" at www.foodsafety.gov](https://www.foodsafety.gov/risk/pregnant/chklist_pregnancy.html)
+    - ["Foodborne Illness Contaminants" at www.fda.gov](https://www.fda.gov/Food/FoodborneIllnessContaminants/PeopleAtRisk/ucm117561.htm)
+    - ["Eating Fish: What Pregnant Women and Parents Should Know" at www.fda.gov](https://www.fda.gov/Food/ResourcesForYou/Consumers/ucm393070.htm)
+    - ["Parent Fact Sheet" at mothertobaby.org](http://mothertobaby.org/fact-sheets-parent/)
+    - ["Is It Safe" at americanpregnancy.org](http://americanpregnancy.org/is-it-safe/)
     - [ ] **Reduce stress and take care of your mental health**
     - Additional resources:
     - SAMHSA’s National Helpline, 1-800-662-HELP (4357)
-    - http://www.mentalhealthamerica.net/im-looking-mental-health-help-myself
-    - https://www.nimh.nih.gov/health/find-help/index.shtml
+    - ["I'm Looking for Mental Health Help Myself" at www.mentalhealthamerica.net](http://www.mentalhealthamerica.net/im-looking-mental-health-help-myself)
+    - ["Help for Mental Illness" at www.nimh.nih.gov](https://www.nimh.nih.gov/health/find-help/index.shtml)
     
-- [ ] **Get help for violence.** Reach out to a local resource for help.
+- [ ] **Get help for violence.** Call The National Domestic Violence Hotline at 1−800−799−SAFE(7233) or TTY 1−800−787−3224 or (206) 518-9361 (Video Phone Only for Deaf Callers). The Hotline provides service referrals to agencies in all 50 states, Puerto Rico, Guam and the U.S. Virgin Islands. 
     - Additional resources:
-    - https://www.cdc.gov/ViolencePrevention/index.html
-    - http://nnedv.org/resources/coalitions.html
-    - https://www.domesticshelters.org/search
-    - http://www.welfareinfo.org/shelters/    
+    - [The National Domestic Violence Hotline at www.thehotline.org](http://www.thehotline.org/)
+    - [National Runaway Safeline (1-800-786-2929) at 1800runaway.org](https://www.1800runaway.org/)
+    - [Search for Domestic Shelters at www.domesticshelters.org](https://www.domesticshelters.org/search)
+    - [Find Local Domestic Violence Shelters at www.welfareinfo.org](http://www.welfareinfo.org/shelters/)    
+    - ["Is This Abuse?" at www.thehotline.org](http://www.thehotline.org/is-this-abuse/abuse-defined/)
     
 - [ ] **Learn your family health history**
     - Additional resources:
-    - https://www.cdc.gov/genomics/famhistory/famhist_plan_pregnancy.htm
+    - ["Family Health History and Planning for Pregnancy" at www.cdc.gov](https://www.cdc.gov/genomics/famhistory/famhist_plan_pregnancy.htm)
     
 - [ ] **How will you know when you're pregnant?**
     - Additional resources
-    - https://www.womenshealth.gov/files/documents/pregnancy-test-fact-sheet.pdf
+    - ["Pregnancy Test Fact Sheet" at www.womenshealth.gov](https://www.womenshealth.gov/files/documents/pregnancy-test-fact-sheet.pdf)
 
