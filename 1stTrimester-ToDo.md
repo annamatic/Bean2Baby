@@ -15,6 +15,7 @@
 ---
 - [ ] **Receive text message reminders and support.** 
     - If you have an Android or iPhone smartphone, download the free Text4Baby app at www.text4baby.org
+---    
 - [ ] **Your body is changing.** Learn which changes are normal and how to reduce any discomfort you feel. If something is bothering or worrying you, don't wait to call your doctor or midwife. Sometimes physical changes can be signs of a problem.
     - Additional resources:
     - ["Body Changes and Discomforts" at www.womenshealth.gov](https://www.womenshealth.gov/pregnancy/youre-pregnant-now-what/body-changes-and-discomforts)
