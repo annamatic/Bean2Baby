@@ -47,11 +47,11 @@ The first and most important thing your baby will need is for your body to be he
     - ["Alcohol and Drugs Overview" at www.healthline.com](http://www.healthline.com/health/pregnancy/alcohol-drugs#overview1)
 
 - [ ] **Stay healthy!** 
-- Additional resources:
-- ["Prenatal" at www.healthychildren.org](https://www.healthychildren.org/english/ages-stages/prenatal/pages/default.aspx)
-- ["Staying Healthy and Safe" at www.womenshealth.gov](https://www.womenshealth.gov/pregnancy/youre-pregnant-now-what/staying-healthy-and-safe#1) 
-- ["Food Stamps" at www.welfareinfo.org](http://www.welfareinfo.org/help/food-stamps)
-- Staying healthy means:
+    - Additional resources:
+    - ["Prenatal" at www.healthychildren.org](https://www.healthychildren.org/english/ages-stages/prenatal/pages/default.aspx)
+    - ["Staying Healthy and Safe" at www.womenshealth.gov](https://www.womenshealth.gov/pregnancy/youre-pregnant-now-what/staying-healthy-and-safe#1) 
+    - ["Food Stamps" at www.welfareinfo.org](http://www.welfareinfo.org/help/food-stamps)
+    - Staying healthy means:
     - [ ] **Eat a healthy diet, and exercise and start taking folic acid supplements.** 
     - Source a range of foods for a nutritious and balanced diet, make time in your schedule to exercise regularly.
     - Additional resources:
