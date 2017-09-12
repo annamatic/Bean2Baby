@@ -24,12 +24,12 @@
 - [ ] **Know your pregnancy rights**
     - Additional resources:
     - ["Know Your Pregnancy Rights" at www.womenshealth.gov](https://www.womenshealth.gov/pregnancy/youre-pregnant-now-what/know-your-pregnancy-rights)
+---     
     
-    
-### Continue with the following. See the [**Prepregnancy To-do List**](/Prepregnancy-ToDo.md) for resources.
-- [ ] **Continue planning your finances, and make sure you have adequate insurance coverage** Calculate the medical costs of prenatal care and birth. 
+**Continue doing the following:** See the [**Prepregnancy To-do List**](/Prepregnancy-ToDo.md) for resources.
+- [ ] **Plan your finances, and make sure you have adequate insurance coverage** Calculate the medical costs of prenatal care and birth. 
     - [ ] **If you already have health insurance**, become familiar with any co-pays, co-insurance and deductibles that will affect your wallet, in addition to the scope of your insurance's coverage in case of complications. Your doctor, employer benefits office and insurance provider can help you calculate the total cost.
-    - [ ] **If you do not have health insurance, free or reduced cost prenatal care in the US is available to those who qualify.** Call 800-311-BABY (800-311-2229) *as soon as possible* after the loss of your insurance coverage to be connected to the Health Department in your area code for further information. 
+    - [ ] **If you do not have health insurance, free or reduced cost prenatal care in the US is available to those who qualify.** Be aware of the application deadlines and call 800-311-BABY (800-311-2229) *as soon as possible* after your loss of coverage to be connected to the Health Department in your area code. You can also [find out if you can still get 2017 health coverage at the www.healthcare.gov screener](https://www.healthcare.gov/screener/). 
     - [ ] **Learn about other non-insurance ways to manage healthcare costs.**  
 ---   
 - [ ] **Have you considered where you want to give birth?** Your health insurance or life situation may allow you a choice of whether to give birth at home or in a hospital setting. Research and consider the pros and cons to choose the best healthcare provider for your needs. See the [**Prepregnancy To-do List**](/Prepregnancy-ToDo.md) for resources.
