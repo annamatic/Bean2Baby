@@ -9,7 +9,7 @@ The first and most important thing your baby will need is for your body to be he
     - Additional resources:  
     - ["Planning" at www.cdc.gov/preconception](https://www.cdc.gov/preconception/planning.html)  
     - ["Free Materials" at www.cdc.gov/preconception](https://www.cdc.gov/preconception/freematerials-health-edu.html)  
-    
+---    
 - [ ] **Plan your finances and make sure you have adequate insurance coverage** Calculate the medical costs of prenatal care and birth.  
     - [ ] **If you already have health insurance**, become familiar with any co-pays, co-insurance and deductibles that will affect your wallet, in addition to the scope of your insurance's coverage in case of complications. Your doctor, employer benefits office and insurance provider can help you calculate the total cost.  
     - Additional resources:  
@@ -26,26 +26,26 @@ The first and most important thing your baby will need is for your body to be he
     - Additional resources:  
     - ["Find a Birth Center" at "www.birthcenters.org"](http://www.birthcenters.org/search/custom.asp?id=2926)  
     - ["Maternity Insurance for Pregnant Women" at americanpregnancy.org](http://americanpregnancy.org/planning/maternity-insurance-for-pregnant-women/)  
-    
+---     
 - [ ] **Talk with your doctor!** Make an appointment with your primary care doctor to discuss your plans, hopes and concerns. Discuss with your doctor whether any medications (including over-the-counter) or health supplements you are taking should be continued or stopped.
     - Additional resources:
     - ["You Get Pregnant" at www.womenshealth.gov](https://www.womenshealth.gov/pregnancy/you-get-pregnant)
     - ["Have a Healthy Pregnancy" at "healthfinder.gov](https://healthfinder.gov/HealthTopics/Dispatch.aspx?q1=pregnancy&q2=doctor-and-midwife-visits&q3=have-a-healthy-pregnancy)
-    
+---     
 - [ ] **Do you know where you want to give birth?** Your health insurance or life situation may allow you a choice of whether to give birth at home or in a hospital setting. Research and consider the pros and cons to choose the best healthcare provider for your needs.
     - Additional resources:
     - ["Choosing an Obstetric Health Care Provider" at www.webmd.com](http://www.webmd.com/baby/pregnancy-choosing-obstetric-health-care-provider#1)
     - ["How to Choose an Obstetrician" at www.babycenter.com](https://www.babycenter.com/0_how-to-choose-an-obstetrician_1582.bc)
     - ["Choose an OB/GYN or Midwife" at www.parents.com](http://www.parents.com/pregnancy/my-body/pregnancy-health/choose-an-ob-gyn-or-midwife/)
     - ["Find a Birth Center" at www.birthcenters.org](http://www.birthcenters.org/search/custom.asp?id=2926)
-    
+---     
 - [ ] **Don’t smoke, drink alcohol or do drugs. If you have an addiction,** your doctor can refer you to resources to help you quit. You can also call the Substance Abuse and Mental Health Services Administration National Helpline at 1-800-662-HELP(4357) to be connected to a local service.
     - Additional resources:
     - [smokefree.gov](https://smokefree.gov)
     - [Substance Abuse and Mental Health Services Administration at findtreatment.samhsa.gov](https://findtreatment.samhsa.gov/)
     - ["Street Drugs and Pregnancy" at www.marchofdimes.org](http://www.marchofdimes.org/pregnancy/street-drugs-and-pregnancy.aspx)
     - ["Alcohol and Drugs Overview" at www.healthline.com](http://www.healthline.com/health/pregnancy/alcohol-drugs#overview1)
-
+--- 
 - [ ] **Stay healthy!** 
     - Additional resources:
     - ["Prenatal" at www.healthychildren.org](https://www.healthychildren.org/english/ages-stages/prenatal/pages/default.aspx)
@@ -81,19 +81,20 @@ The first and most important thing your baby will need is for your body to be he
     - SAMHSA’s National Helpline, 1-800-662-HELP (4357)
     - ["I'm Looking for Mental Health Help Myself" at www.mentalhealthamerica.net](http://www.mentalhealthamerica.net/im-looking-mental-health-help-myself)
     - ["Help for Mental Illness" at www.nimh.nih.gov](https://www.nimh.nih.gov/health/find-help/index.shtml)
-    
+---     
 - [ ] **Get help for violence.** Call The National Domestic Violence Hotline at 1−800−799−SAFE(7233) or TTY 1−800−787−3224 or (206) 518-9361 (Video Phone Only for Deaf Callers). The Hotline provides service referrals to agencies in all 50 states, Puerto Rico, Guam and the U.S. Virgin Islands. 
     - Additional resources:
     - [The National Domestic Violence Hotline at www.thehotline.org](http://www.thehotline.org/)
     - [National Runaway Safeline (1-800-786-2929) at 1800runaway.org](https://www.1800runaway.org/)
     - [Search for Domestic Shelters at www.domesticshelters.org](https://www.domesticshelters.org/search)
-    - [Find Local Domestic Violence Shelters at www.welfareinfo.org](http://www.welfareinfo.org/shelters/)    
+    - [Find Local Domestic Violence Shelters at www.welfareinfo.org](http://www.welfareinfo.org/shelters/)   
+    - [Asian Pacific Institute on Gender Based Violence Find a Resource at apigbv.force.com ](http://apigbv.force.com/)
     - ["Is This Abuse?" at www.thehotline.org](http://www.thehotline.org/is-this-abuse/abuse-defined/)
-    
+---     
 - [ ] **Learn your family health history**
     - Additional resources:
     - ["Family Health History and Planning for Pregnancy" at www.cdc.gov](https://www.cdc.gov/genomics/famhistory/famhist_plan_pregnancy.htm)
-    
+---     
 - [ ] **How will you know when you're pregnant?**
     - Additional resources
     - ["Pregnancy Test Fact Sheet" at www.womenshealth.gov](https://www.womenshealth.gov/files/documents/pregnancy-test-fact-sheet.pdf)
