@@ -3,8 +3,6 @@
 [←Prepregnancy](/Prepregnancy-ToDo.md) || [Main Index](/ReadMe.md) || [2nd Trimester→](#)
 
 # 1st Trimester To-do List
-### [Download the printable for the 1st Trimester To-do List here.](/downloads/ToDoList-2-1stTrimester.pdf)
-
 
 - [ ] **Start your prenatal care.** Make an appointment with your midwife or primary care doctor as soon as you find out about your pregnancy, and no later than 11 weeks into your pregnancy. Read about what to expect at the first visit:
     - ["First Prenatal Visit" at americanpregnancy.org](http://americanpregnancy.org/planning/first-prenatal-visit/)
