@@ -18,19 +18,15 @@ The following pages contain timeline-based To-do Lists for U.S.-based overwhelme
 Here it is:
 ## [1st Trimester To-do List](#)  
 ## [2nd Trimester To-do List](#)  
-------
 ## *3rd Trimester To-do List* 
 [Help write Tasks for this To-do List](#)  
-------
 ## *Birth To-do List* 
 [Help write Tasks for this To-do List](#)  
-------
 ## *1st Month Postnatal To-do List*
 [Help write Tasks for this To-do List](#)  
-------
 ## *2nd Month Postnatal To-do List*
 [Help write Tasks for this To-do List](#)    
-------
+
 ----
 ###### <a name="3"></a>Is Bean2Baby content free to use?
 ### Bean2Baby To-do Lists are free-to-use under the following Creative Commons license. 
