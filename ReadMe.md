@@ -22,6 +22,7 @@ Here it is:
 ## *Birth To-do List* 
 ## *1st Month Postnatal To-do List* 
 ## *2nd Month Postnatal To-do List*  
+## *Resources Page*
 
 ----
 ###### <a name="3"></a>Is Bean2Baby content free to use?
