@@ -2,17 +2,20 @@
 ---
 ---
 # Introduction to Bean2Baby
-- What is Bean2Baby?  
+- [What is Bean2Baby?](#1) 
+- [Where's the Table of Contents?](#2)
 - Is Bean2Baby content free to use?
 - How are Bean2Baby lists organized?
 - Do you want to help?
 
-###### What is Bean2Baby?
+###### <a name="1"></a>What is Bean2Baby?
 ### Do you represent a community advocacy, patient advocacy or health organization that serves pregnant and new moms? This resource is for you!
 The following pages contain timeline-based To-do Lists for U.S.-based overwhelmed / under-resourced pregnant and new parents. The content has been compiled and written to focus on providing simple “bite-sized” tips towards accessing healthcare and services and building  healthy habits, taking into account the issues that many under-resourced individuals face. Take a look:
 
-[1st Trimester To-do List](#)  
-------
+
+###### <a name="2"></a>Where's the Table of Contents?  
+Here it is:
+### [1st Trimester To-do List](#)  
 [2nd Trimester To-do List](#)  
 ------
 *3rd Trimester To-do List [Seeking contributors! Help us write Tasks!](#)*  
