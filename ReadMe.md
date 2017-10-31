@@ -33,6 +33,7 @@ As an Open Education Resource (OER) we ask that, in return, you follow these gui
 - Attribute and link to us.  
 - Tell us how you’ve used the content so we can link to you in our [subdirectory](#).  
 - You are free and encouraged to translate this resource to other languages! 
+
 ----
 ###### <a name="4"></a>How are Bean2Baby lists organized?
 ### Bean2Baby To-do Lists are organized as follows:
@@ -40,6 +41,7 @@ As an Open Education Resource (OER) we ask that, in return, you follow these gui
   - Healthy Habits (Tasks to repeat every Morning, Afternoon and Evening)
   - Week-by-Week (Tasks to focus on each week)
 - The Resources Page has links to other online resources that can provide additional important information.
+
 ----
 ###### <a name="5"></a>Do you want to help?
 Have a suggestion for a Task or a Resource? [Suggest it here](#).  
