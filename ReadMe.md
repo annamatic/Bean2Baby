@@ -6,12 +6,12 @@
 **Do you represent a community advocacy, patient advocacy or health organization that serves pregnant and new moms? This resource is for you!**
 The following pages contain timeline-based To-do Lists for U.S.-based overwhelmed / under-resourced pregnant and new parents. The content has been compiled and written to focus on providing simple “bite-sized” tips towards accessing healthcare and services and building  healthy habits, taking into account the issues that many under-resourced individuals face.
 
-[1st Trimester To-do List](#)
-[2nd Trimester To-do List](#)
-*3rd Trimester To-do List* [Seeking contributors! Help us write Tasks!](#)
-*Birth To-do List* [Seeking contributors! Help us write Tasks!](#)
-*1st Month Postnatal To-do List* [Seeking contributors! Help us write Tasks!](#)
-*2nd Month Postnatal To-do List* [Seeking contributors! Help us write Tasks!](#)
+[1st Trimester To-do List](#)  
+[2nd Trimester To-do List](#)  
+*3rd Trimester To-do List* [Seeking contributors! Help us write Tasks!](#)  
+*Birth To-do List* [Seeking contributors! Help us write Tasks!](#)  
+*1st Month Postnatal To-do List* [Seeking contributors! Help us write Tasks!](#)  
+*2nd Month Postnatal To-do List* [Seeking contributors! Help us write Tasks!](#)  
 
 ### Bean2Baby To-do Lists are free-to-use under the following Creative Commons license. 
 As an Open Education Resource (OER) we ask that, in return, you follow these guidelines:
