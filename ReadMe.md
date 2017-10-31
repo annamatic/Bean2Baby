@@ -1,25 +1,29 @@
 
 ---
 ---
+# Introduction to Bean2Baby
 
-# Thinking of getting pregnant? Already pregnant?
+**Do you represent a community advocacy, patient advocacy or health organization that serves pregnant and new moms? This resource is for you!**
 
-These are free To-do Lists with links to important insurance, medical and wellness information that you may need. As with planning any journey into new territory, pregnancy and new parenthood can be made a little bit more manageable with some organization, information and support. Before you begin, check our [subdirectory](#) to see if any community organizatons have made To-do Lists for your particular state, medical condition, language or other concern.
+The following pages contain timeline-based To-do Lists for U.S.-based overwhelmed / under-resourced pregnant and new parents. The content has been compiled and written to focus on providing simple “bite-sized” tips towards accessing healthcare and services and building healthy habits, taking into account the issues that many under-resourced individuals face.
 
-# [Prepregnancy →](/Prepregnancy-ToDo.md)
-# [1st Trimester →](/1stTrimester-ToDo.md)
-# 2nd Trimester
-# 3rd Trimester
-# Birth
-# 1 month Postnatal
+### Bean2Baby To-do Lists are free-to-use under the following Creative Commons license. 
+As an Open Education Resource (OER) we ask that, in return, you follow these guidelines:
+— Do not use this content for commercial purposes, including selling products, advertising or subscription services.
+— Display this Creative Commons license wherever you reproduce (online or offline) this and its adapted content.
+— Attribute and link to us.
+— Tell us how you’ve used the content so we can link to you in our [subdirectory](#)
+— You are free and encouraged to translate this resource to other languages! 
 
+### Bean2Baby To-do Lists are organized as follows:
+— Each perinatal stage (1st Trimester, 2nd Trimester, 3rd Trimester… etc.) has Tasks in two groups:
+	• Healthy Habits (Tasks to repeat every Morning, Afternoon and Evening)
+	• Week-by-Week (Tasks to focus on each week)
+— The Resources Page has links to other online resources that can provide additional important information.
 
----
----
+Have a suggestion for a Task or a Resource? [Suggest it here](#).
+Want to help? [Contact me](#)
 
-# Printables
-Do you want printable versions of these To-do Lists and other templates to help you plan? The following PDFs are printable on a black and white printer, and can be folded to fit into your daily planner.
-- [Prepregnancy](/downloads/ToDoList-1-Prepregnancy.pdf)
-- [1st Trimester](/downloads/ToDoList-2-1stTrimester.pdf)
-- [Pocket Template](/downloads/ToDoList-3-1stTrimester-Pocket.pdf)
-- [Blank Notes Template](/downloads/ToDoList-4-Notes.pdf)
+This resource grew out of an idea I presented for an OpenIDEO challenge titled:
+**How might we reimagine the new life experience by addressing the diverse challenges of all mothers, babies, and those who care for them?** [You can view the challenge and the resulting ideas here.](#)
+
