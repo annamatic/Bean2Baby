@@ -32,7 +32,7 @@ Here it is:
 ----
 
 ###### <a name="3"></a>Is Bean2Baby content free to use?
-### Bean2Baby To-do Lists are free-to-use under the following Creative Commons license. 
+### Bean2Baby To-do Lists are free for non-commercial use under the [Attribution-NonCommercial 4.0 International (CC BY-NC 4.0)](https://creativecommons.org/licenses/by-nc/4.0/) Creative-Commons license. 
 As an Open Education Resource (OER) we ask that, in return, you follow these guidelines:
 - Do not use this content for commercial purposes, including selling products, advertising or subscription services.  
 - Display this Creative Commons license wherever you reproduce (online or offline) this and its adapted content.  
