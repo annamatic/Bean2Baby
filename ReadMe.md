@@ -3,7 +3,7 @@
 ---
 # Introduction to Bean2Baby
 - [What is Bean2Baby?](#1) 
-- [Where's the Table of Contents?](#2)
+- [Where is it?](#2)
 - [Is Bean2Baby content free to use?](#3)
 - [How are Bean2Baby lists organized?](#4)
 - [Do you want to help?](#5)
@@ -18,8 +18,8 @@ The following pages contain timeline-based To-do Lists for U.S.-based overwhelme
 ----
 ----
 
-###### <a name="2"></a>Where's the Table of Contents?  
-Here it is:
+###### <a name="2"></a>Where is it?  
+It's right here:
 ## [1st Trimester To-do List](#)  
 ## [2nd Trimester To-do List](#)  
 ## <span color="cccccc">*3rd Trimester To-do List* </span>
