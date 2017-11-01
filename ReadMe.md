@@ -37,8 +37,9 @@ As an Open Education Resource (OER) we ask that, in return, you follow these gui
 - Do not use this content for commercial purposes, including selling products, advertising or subscription services.  
 - Display this Creative Commons license wherever you reproduce (online or offline) this and its adapted content.  
 - Attribute and link to us.  
-- Tell us how you’ve used the content so we can link to you in our [subdirectory](#).  
 - You are free and encouraged to translate this resource to other languages! 
+- Tell us how you’ve used the content so we can link to you in our [subdirectory](#).  
+
 
 ----
 ----
