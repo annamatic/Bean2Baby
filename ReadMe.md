@@ -62,6 +62,6 @@ Want to help? [Contact me](#).
 ----
 ----
 
-This resource grew out of an idea [I](#) presented for an [OpenIDEO](#) challenge titled:  
+This resource grew out of an idea [I proposed](/openideo/maternal-health.md) for an <a href="https://openideo.com/" target="_blank">OpenIDEO</a> challenge titled:  
 **How might we reimagine the new life experience by addressing the diverse challenges of all mothers, babies, and those who care for them?** [You can view the challenge and other participants' wonderful ideas here.](#)
 
