@@ -5,9 +5,8 @@
 ---
 
 # Resources
-
----    
-Maternity Coverage
+   
+Health insurance
 
 If you already have employer-provided health insurance, become familiar with any co-pays, co-insurance and deductibles that will affect your wallet, in addition to the scope of your insurance's coverage in case of complications. Your doctor, employer benefits office and insurance provider can help you calculate the total cost.
   - ["Pregnancy Costs" at www.whattoexpect.com](https://www.whattoexpect.com/pregnancy/pregnancy-costs/)  
