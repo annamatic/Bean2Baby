@@ -55,7 +55,7 @@ Nevertheless, if you are a sexually-active — regardless of whether or not you 
 ###### <a name="3"></a>Week by Week
 - [ ] Week 05 of 40: So, you’ve missed your period and might be pregnant? Receive free text message reminders and support. Sign up for [Text4Baby](http://www.text4baby.org).
 
-- [ ] Week 06 of 40: Start your prenatal care — make an appointment with your midwife or primary care doctor — as soon as you find out you might be pregnant. [Here's what to expect at the visit.](https://www.womenshealth.gov/pregnancy/youre-pregnant-now-what/prenatal-care-and-tests). Review the appointment schedule and list of tests that your doctor recommends. 
+- [ ] Week 06 of 40: Start your prenatal care — make an appointment with your midwife or primary care doctor — as soon as you find out you might be pregnant. [Here's what to expect at the visit](https://www.womenshealth.gov/pregnancy/youre-pregnant-now-what/prenatal-care-and-tests). Review the appointment schedule and list of tests that your doctor recommends. 
 
 - [ ] Week 07 of 40: You may already know that raw eggs and meat pose health risks to you and your baby... [Make sure you know the full list of other foods and contaminants you should be avoid or restrict](https://www.text4baby.org/learn/pregnancy/food-safety).
 
@@ -63,10 +63,10 @@ Nevertheless, if you are a sexually-active — regardless of whether or not you 
 
 - [ ] Week 09 of 40: It’s never too late to start healthy eating habits. Choose a day each week to pick up some fresh fruits, vegetables and protein to keep on hand for nutritious snacks and meals throughout the week. If finding affordable food is a struggle, [you may qualify for WIC benefits](https://wic.fns.usda.gov/wps/pages/start.jsf).
 
-- [ ] Week 10 of 40: Morning sickness doesn't just occur in the morning. If you're feeling nauseous and/or vomiting, stay hydrated and try eating small meals more often. Don't let your stomach go empty. If you experience extreme vomiting, call your doctor.
+- [ ] Week 10 of 40: Morning sickness doesn't just occur in the morning. If you're feeling nauseous and/or vomiting, stay hydrated, try eating small meals more often, and don't let your stomach go empty. Learn more morning sickness tips here. If you experience extreme vomiting, call your doctor.
 
-- [ ] Week 11 of 40: Your body is changing. Learn which changes are normal and how to reduce any discomfort you feel. If something is bothering or worrying you, don't wait to call your doctor or midwife. Sometimes physical changes can be signs of a problem.
+- [ ] Week 11 of 40: Your body is changing. [Learn which changes are normal and how to reduce any discomfort you feel](https://www.womenshealth.gov/pregnancy/youre-pregnant-now-what/stages-pregnancy). If something is bothering or worrying you, don't wait to call your doctor or midwife. Sometimes physical changes can be signs of a problem.
 
-- [ ] Week 12 of 40: 
+- [ ] Week 12 of 40: When sharing your good news with coworkers, discrimination might be the last thing on your mind. But the truth is that many women are treated unfairly — or even fired — after revealing the news of their pregnancy. [Know your pregnancy rights](https://www.womenshealth.gov/pregnancy/youre-pregnant-now-what/know-your-pregnancy-rights)
 
 
