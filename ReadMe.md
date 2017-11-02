@@ -30,6 +30,7 @@ It's right here:
 ## *1st Month Postnatal To-do List* 
 ## *2nd Month Postnatal To-do List*  
 ## [Resources Page](/Resources.md)
+## [Specialized Guides](/SpecializedGuides.md)
 
 ----
 ----
@@ -41,7 +42,7 @@ As an Open Education Resource (OER) we ask that, in return, you follow these gui
 - Display this Creative Commons license wherever you reproduce (online or offline) this and its adapted content.  
 - Attribute and link to us.  
 - You are free and encouraged to translate this resource to other languages! 
-- Tell us how you’ve used the content so we can link to you in our [subdirectory](#).  
+- Tell us how you’ve used the content so we can link to you on the [Specialized Guides](/SpecializedGuides.md) page.  
 
 
 ----
@@ -60,7 +61,7 @@ As an Open Education Resource (OER) we ask that, in return, you follow these gui
 
 ###### <a name="5"></a>Do you want to help?
 Have a suggestion for a Task or a Resource? [Suggest it here](#).  
-Want to help? [Contact me](#).  
+Want to help? [Contact me](@annamatic).  
 
 ----
 ----
