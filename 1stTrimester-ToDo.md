@@ -57,7 +57,7 @@ Nevertheless, if you are a sexually-active — regardless of whether or not you 
 
 - [ ] Week 06 of 40: Start your prenatal care — make an appointment with your midwife or primary care doctor — as soon as you find out you might be pregnant. [Here's what to expect at the visit](https://www.womenshealth.gov/pregnancy/youre-pregnant-now-what/prenatal-care-and-tests). Review the appointment schedule and list of tests that your doctor recommends. 
 
-- [ ] Week 07 of 40: You may already know that raw eggs and meat pose health risks to you and your baby... [Make sure you know the full list of other foods and contaminants you should be avoid or restrict](https://www.text4baby.org/learn/pregnancy/food-safety).
+- [ ] Week 07 of 40: You may already know that raw eggs and meat pose health risks to you and your baby. [Make sure you know the full list of other foods and contaminants you should be avoid or limit](https://www.text4baby.org/learn/pregnancy/food-safety).
 
 - [ ] Week 08 of 40: "Eating for two," is a common expression, but do you know how much and what kind of food that actually is? [Enter your age and physical activity level here to see](https://www.choosemyplate.gov/MyPlate-Daily-Checklist-input).
 
@@ -67,6 +67,6 @@ Nevertheless, if you are a sexually-active — regardless of whether or not you 
 
 - [ ] Week 11 of 40: Your body is changing. [Learn which changes are normal and how to reduce any discomfort you feel](https://www.womenshealth.gov/pregnancy/youre-pregnant-now-what/stages-pregnancy). If something is bothering or worrying you, don't wait to call your doctor or midwife. Sometimes physical changes can be signs of a problem.
 
-- [ ] Week 12 of 40: When sharing your good news with coworkers, discrimination might be the last thing on your mind. But the truth is that many women are treated unfairly — or even fired — after revealing the news of their pregnancy. [Know your pregnancy rights](https://www.womenshealth.gov/pregnancy/youre-pregnant-now-what/know-your-pregnancy-rights)
+- [ ] Week 12 of 40: When sharing your good news with coworkers, discrimination might be the last thing on your mind. But the truth is that many women are treated unfairly — or even fired — after revealing the news of their pregnancy. [Know your pregnancy rights](https://www.womenshealth.gov/pregnancy/youre-pregnant-now-what/know-your-pregnancy-rights).
 
 
