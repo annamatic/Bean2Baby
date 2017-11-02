@@ -23,7 +23,7 @@ Nevertheless, if you are a sexually-active — regardless of whether or not you 
 
 - [ ] Start taking 400mcg folic acid daily. This vitamin is important for all women, but especially critical before and during pregnancy, to prevent some major birth defects of the baby’s brain and spine. [Learn more here](https://www.cdc.gov/ncbddd/folicacid/about.html). 
 
-- [ ] Don’t smoke, drink alcohol or do drugs. If you have an addiction, your doctor can refer you to resources to help you quit. You can also call the Substance Abuse and Mental Health Services Administration National Helpline at 1-800-662-HELP(4357) to be connected to a local service.
+- [ ] Don’t smoke, drink alcohol or do drugs. If you have an addiction, your doctor can refer you to resources to help you quit. You can also call the Substance Abuse and Mental Health Services Administration National Helpline at 1-800-662-HELP(4357) or visit [findtreatment.samhsa.gov](https://findtreatment.samhsa.gov/) to be connected to a local service.
 
 - [ ] How will you know when you're pregnant? See the ["Pregnancy Test Fact Sheet" at www.womenshealth.gov](https://www.womenshealth.gov/files/documents/pregnancy-test-fact-sheet.pdf).  
 
@@ -53,11 +53,11 @@ Nevertheless, if you are a sexually-active — regardless of whether or not you 
 ---
 
 ###### <a name="3"></a>Week by Week
-- [ ] Week 05 of 40: So, you’ve missed your period and might be pregnant? Receive free text message reminders and support. Sign up for Text4Baby at [http://www.text4baby.org](text4baby.org)
+- [ ] Week 05 of 40: So, you’ve missed your period and might be pregnant? Receive free text message reminders and support. Sign up for [Text4Baby](http://www.text4baby.org).
 
 - [ ] Week 06 of 40: Start your prenatal care — make an appointment with your midwife or primary care doctor — as soon as you find out you might be pregnant. [Here's what to expect at the visit.](https://www.womenshealth.gov/pregnancy/youre-pregnant-now-what/prenatal-care-and-tests). Review the appointment schedule and list of tests that your doctor recommends. 
 
-- [ ] Week 07 of 40: Avoid eating    and these other foods that can 
+- [ ] Week 07 of 40: You may already know that raw eggs and meat pose health risks to you and your baby... [Make sure you know the full list of other foods and contaminants you should be avoid or restrict](https://www.text4baby.org/learn/pregnancy/food-safety).
 
 - [ ] Week 08 of 40: "Eating for two," is a common expression, but do you know how much and what kind of food that actually is? [Enter your age and physical activity level here to see](https://www.choosemyplate.gov/MyPlate-Daily-Checklist-input).
 
