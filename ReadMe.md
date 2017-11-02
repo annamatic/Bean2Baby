@@ -29,7 +29,7 @@ It's right here:
 ## *Birth To-do List* 
 ## *1st Month Postnatal To-do List* 
 ## *2nd Month Postnatal To-do List*  
-## [Resources Page](#)
+## [Resources Page](/Resources.md)
 
 ----
 ----
