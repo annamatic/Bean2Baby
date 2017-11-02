@@ -36,8 +36,8 @@ Prenatal Visits
 
 ---    
 Choosing Where to Give Birth
+
 Your health insurance or life situation may allow you a choice of whether to give birth at home or in a hospital setting. Research and consider the pros and cons to choose the best healthcare provider for your needs.
-  - Additional resources:
   - ["Choosing an Obstetric Health Care Provider" at www.webmd.com](http://www.webmd.com/baby/pregnancy-choosing-obstetric-health-care-provider#1)
   - ["How to Choose an Obstetrician" at www.babycenter.com](https://www.babycenter.com/0_how-to-choose-an-obstetrician_1582.bc)
   - ["Choose an OB/GYN or Midwife" at www.parents.com](http://www.parents.com/pregnancy/my-body/pregnancy-health/choose-an-ob-gyn-or-midwife/)
@@ -54,7 +54,6 @@ Body Changes
 Get help
 
 **Don’t smoke, drink alcohol or do drugs. If you have an addiction,** your doctor can refer you to resources to help you quit. You can also call the Substance Abuse and Mental Health Services Administration National Helpline at 1-800-662-HELP(4357) to be connected to a local service.
-  - Additional resources:
   - [smokefree.gov](https://smokefree.gov)
   - [Substance Abuse and Mental Health Services Administration at findtreatment.samhsa.gov](https://findtreatment.samhsa.gov/)
 
@@ -88,12 +87,11 @@ What to avoid
   - ["Parent Fact Sheet" at mothertobaby.org](http://mothertobaby.org/fact-sheets-parent/)
   - ["Is It Safe" at americanpregnancy.org](http://americanpregnancy.org/is-it-safe/)
 
-**Reduce stress and take care of your mental health** 
+Mental health
 Seek out a community-based pregnancy or mothers group for social support during your journey. 
   - SAMHSA’s National Helpline, 1-800-662-HELP (4357)
   - ["I'm Looking for Mental Health Help Myself" at www.mentalhealthamerica.net](http://www.mentalhealthamerica.net/im-looking-mental-health-help-myself)
   - ["Help for Mental Illness" at www.nimh.nih.gov](https://www.nimh.nih.gov/health/find-help/index.shtml)
-
 
 Learn your family health history
   - ["Family Health History and Planning for Pregnancy" at www.cdc.gov](https://www.cdc.gov/genomics/famhistory/famhist_plan_pregnancy.htm)
