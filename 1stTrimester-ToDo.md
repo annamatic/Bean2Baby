@@ -53,7 +53,7 @@ Nevertheless, if you are a sexually-active — regardless of whether or not you 
 ---
 
 ###### <a name="3"></a>Week by Week
-- [ ] Week 05 of 40: So, you’ve missed your period and might be pregnant? Receive free text message reminders and support. Sign up for [Text4Baby](http://www.text4baby.org).
+- [ ] Week 05 of 40: [Text4baby](https://partners.text4baby.org/index.php/sign-up) is a free service that helps you feel more prepared for motherhood. Text4baby will send you doctor appointment reminders and personalized information on prenatal care, baby’s development, signs of labor, breastfeeding, nutrition and more, directly to your cell phone. Text BABY (or BEBE) to 511411 to sign up.
 
 - [ ] Week 06 of 40: Start your prenatal care — make an appointment with your midwife or primary care doctor — as soon as you find out you might be pregnant. [Here's what to expect at the visit](https://www.womenshealth.gov/pregnancy/youre-pregnant-now-what/prenatal-care-and-tests). Review the appointment schedule and list of tests that your doctor recommends. 
 
