@@ -61,7 +61,7 @@ As an Open Education Resource (OER) we ask that, in return, you follow these gui
 
 ###### <a name="5"></a>Do you want to help?
 Have a suggestion for a Task or a Resource? [Suggest it here](#).  
-Want to help? [Contact me](@annamatic).  
+Want to help? [Contact me](https://github.com/annamatic).  
 
 ----
 ----
