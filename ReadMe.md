@@ -15,8 +15,8 @@
 ### Do you work for a community advocacy, patient advocacy or health organization that serves pregnant and new moms? This resource is for you!
 The Bean2Baby Guide consists of timeline-based To-do Lists for U.S.-based overwhelmed / under-resourced pregnant and new parents. The content is being compiled and written to focus on providing simple “bite-sized” Tasks oriented towards accessing healthcare and services and building  healthy habits, taking into account the issues that many under-resourced individuals face. [Take a look.](#2) 
 
-This resource grew out of an idea [I proposed](/openideo/maternal-health.md) for an [OpenIDEO](https://openideo.com/) challenge titled:  
-**How might we reimagine the new life experience by addressing the diverse challenges of all mothers, babies, and those who care for them?** [Read my proposal here.](/openideo/maternal-health.md) [You can view the challenge and other participants' wonderful ideas here.](https://challenges.openideo.com/challenge/new-life/)
+This resource grew out of an idea [I proposed](https://github.com/annamatic/OpenIDEO/blob/master/maternal-health.md) for an [OpenIDEO](https://openideo.com/) challenge titled:  
+**How might we reimagine the new life experience by addressing the diverse challenges of all mothers, babies, and those who care for them?** [You can read my proposal here.](https://github.com/annamatic/OpenIDEO/blob/master/maternal-health.md) [You can view the challenge and other participants' wonderful ideas here](https://challenges.openideo.com/challenge/new-life/).
 
 ----
 ----
@@ -66,6 +66,6 @@ Want to help? [Contact me](https://github.com/annamatic).
 ----
 ----
 
-This resource grew out of an idea [I proposed](/openideo/maternal-health.md) for an [OpenIDEO](https://openideo.com/) challenge titled:  
-**How might we reimagine the new life experience by addressing the diverse challenges of all mothers, babies, and those who care for them?** [Read my proposal here.](/openideo/maternal-health.md) [You can view the challenge and other participants' wonderful ideas here.](https://challenges.openideo.com/challenge/new-life/)
+This resource grew out of an idea [I proposed](https://github.com/annamatic/OpenIDEO/blob/master/maternal-health.md) for an [OpenIDEO](https://openideo.com/) challenge titled:  
+**How might we reimagine the new life experience by addressing the diverse challenges of all mothers, babies, and those who care for them?** [You can read my proposal here.](https://github.com/annamatic/OpenIDEO/blob/master/maternal-health.md) [You can view the challenge and other participants' wonderful ideas here](https://challenges.openideo.com/challenge/new-life/).
 
