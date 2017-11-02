@@ -12,7 +12,7 @@
 ----
 
 ###### <a name="1"></a>What is Bean2Baby?
-### Do you represent a community advocacy, patient advocacy or health organization that serves pregnant and new moms? This resource is for you!
+### Do you work for a community advocacy, patient advocacy or health organization that serves pregnant and new moms? This resource is for you!
 The Bean2Baby Guide consists of timeline-based To-do Lists for U.S.-based overwhelmed / under-resourced pregnant and new parents. The content is being compiled and written to focus on providing simple “bite-sized” Tasks oriented towards accessing healthcare and services and building  healthy habits, taking into account the issues that many under-resourced individuals face. [Take a look.](#2) 
 
 This resource grew out of an idea [I proposed](/openideo/maternal-health.md) for an [OpenIDEO](https://openideo.com/) challenge titled:  
@@ -23,13 +23,13 @@ This resource grew out of an idea [I proposed](/openideo/maternal-health.md) for
 
 ###### <a name="2"></a>Where is the Bean2Baby Guide?  
 It's right here:
-## [1st Trimester To-do List](#)  
-## [2nd Trimester To-do List](#)  
+## [1st Trimester To-do List](/1stTrimester-ToDo.md)  
+## *2nd Trimester To-do List]*
 ## <span color="cccccc">*3rd Trimester To-do List* </span>
 ## *Birth To-do List* 
 ## *1st Month Postnatal To-do List* 
 ## *2nd Month Postnatal To-do List*  
-## *Resources Page*
+## [Resources Page](#)
 
 ----
 ----
