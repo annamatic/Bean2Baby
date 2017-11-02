@@ -24,8 +24,8 @@ This resource grew out of an idea [I proposed](/openideo/maternal-health.md) for
 ###### <a name="2"></a>Where is the Bean2Baby Guide?  
 It's right here:
 ## [1st Trimester To-do List](/1stTrimester-ToDo.md)  
-## *2nd Trimester To-do List]*
-## <span color="cccccc">*3rd Trimester To-do List* </span>
+## *2nd Trimester To-do List*
+## *3rd Trimester To-do List*
 ## *Birth To-do List* 
 ## *1st Month Postnatal To-do List* 
 ## *2nd Month Postnatal To-do List*  
