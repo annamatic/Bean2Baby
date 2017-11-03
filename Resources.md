@@ -53,8 +53,10 @@ Body Changes
 Get help
 
 **Don’t smoke, drink alcohol or do drugs. If you have an addiction,** your doctor can refer you to resources to help you quit. You can also call the Substance Abuse and Mental Health Services Administration National Helpline at 1-800-662-HELP(4357) to be connected to a local service.
-  - [smokefree.gov](https://smokefree.gov)
+  - [Smokefree.gov](https://smokefree.gov)
+  - [Smokefree Women](https://women.smokefree.gov/0
   - [Substance Abuse and Mental Health Services Administration at findtreatment.samhsa.gov](https://findtreatment.samhsa.gov/)
+  - [Opiod Use Disorder and Pregnancy FAQs](https://www.acog.org/Patients/FAQs/Important-Information-About-Opioid-Use-Disorder-and-Pregnancy)
 
 **Get help for violence.** Call The National Domestic Violence Hotline at 1−800−799−SAFE(7233) or TTY 1−800−787−3224 or (206) 518-9361 (Video Phone Only for Deaf Callers). The Hotline provides service referrals to agencies in all 50 states, Puerto Rico, Guam and the U.S. Virgin Islands. 
   - Additional resources:
