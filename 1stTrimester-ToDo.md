@@ -7,26 +7,13 @@
 
 # 1st Trimester To-do List
 
-- [Weeks 00–04 of 40](#1)  
-- [Healthy Habits](#2)  
-- [Week by Week](#3)  
+- [Healthy Habits](#1)  
+- [Week by Week: Weeks 00–04 of 40](#2)  
+- [Week by Week: Weeks 05–12 of 40](#3)  
 
 ---
-###### <a name="1"></a>Week 00 through 04 of 40:  
-You may not know if you're pregnant yet -- most women don't find out they're pregnant until Week 06 or after -- but nevertheless, if you are a sexually-active, regardless of whether or not you are planning for pregnancy, here are some critical things to do during and before this time:
 
-- [ ] Do you have health insurance? If not, call 800-311-BABY (800-311-2229) *as soon as possible* to sign up for free or reduced cost health insurance in your area. [For 2018 insurance coverage, click here and sign up between November 1–December 15, 2017](https://www.healthcare.gov/). If you need assistance signing up, [localhelp.healthcare.gov](https://localhelp.healthcare.gov) might be able to help.  
-
-- [ ] Eating healthy has never been more critical. Are you eligible for Women, Infant and Children benefits? [Find out here](https://wic.fns.usda.gov/wps/pages/start.jsf).  
-
-- [ ] Start taking 400mcg folic acid daily. This vitamin is important for all women, but especially critical before and during pregnancy, to prevent some major birth defects of the baby’s brain and spine. [Learn more here](https://www.cdc.gov/ncbddd/folicacid/about.html). 
-
-- [ ] Don’t smoke, drink alcohol or do drugs. If you have an addiction, your doctor can refer you to resources to help you quit. You can also call the Substance Abuse and Mental Health Services Administration National Helpline at 1-800-662-HELP(4357) or visit [findtreatment.samhsa.gov](https://findtreatment.samhsa.gov/) to be connected to a local service.
-
-- [ ] How will you know when you're pregnant? See the ["Pregnancy Test Fact Sheet" at www.womenshealth.gov](https://www.womenshealth.gov/files/documents/pregnancy-test-fact-sheet.pdf).  
-
----
-###### <a name="2"></a>Healthy Habits
+###### <a name="1"></a>Healthy Habits
 
 ***Morning Tasks:*** 
 
@@ -50,7 +37,22 @@ You may not know if you're pregnant yet -- most women don't find out they're pre
 
 ---
 
-###### <a name="3"></a>Week by Week
+###### <a name="2"></a>Week by Week: Weeks 00 through 04 of 40:  
+You may not know if you're pregnant yet -- most women don't find out they're pregnant until Week 06 or after -- but nevertheless, if you are a sexually-active, regardless of whether or not you are planning for pregnancy, here are some critical things to do during and before this time:
+
+- [ ] Do you have health insurance? If not, call 800-311-BABY (800-311-2229) *as soon as possible* to sign up for free or reduced cost health insurance in your area. [For 2018 insurance coverage, click here and sign up between November 1–December 15, 2017](https://www.healthcare.gov/). If you need assistance signing up, [localhelp.healthcare.gov](https://localhelp.healthcare.gov) might be able to help.  
+
+- [ ] Eating healthy has never been more critical. Are you eligible for Women, Infant and Children benefits? [Find out here](https://wic.fns.usda.gov/wps/pages/start.jsf).  
+
+- [ ] Start taking 400mcg folic acid daily. This vitamin is important for all women, but especially critical before and during pregnancy, to prevent some major birth defects of the baby’s brain and spine. [Learn more here](https://www.cdc.gov/ncbddd/folicacid/about.html). 
+
+- [ ] Don’t smoke, drink alcohol or do drugs. If you have an addiction, your doctor can refer you to resources to help you quit. You can also call the Substance Abuse and Mental Health Services Administration National Helpline at 1-800-662-HELP(4357) or visit [findtreatment.samhsa.gov](https://findtreatment.samhsa.gov/) to be connected to a local service.
+
+- [ ] How will you know when you're pregnant? See the ["Pregnancy Test Fact Sheet" at www.womenshealth.gov](https://www.womenshealth.gov/files/documents/pregnancy-test-fact-sheet.pdf).  
+
+---
+
+###### <a name="3"></a>Week by Week: Week 05–12 of 40
 - [ ] Week 05 of 40: [Text4baby](https://partners.text4baby.org/index.php/sign-up) is a free service that helps you feel more prepared for motherhood. Text4baby will send you doctor appointment reminders and personalized information on prenatal care, baby’s development, signs of labor, breastfeeding, nutrition and more, directly to your cell phone. Text BABY (or BEBE) to 511411 to sign up.
 
 - [ ] Week 06 of 40: Start your prenatal care — make an appointment with your midwife or primary care doctor — as soon as you find out you might be pregnant. [Here's what to expect at the visit](https://www.womenshealth.gov/pregnancy/youre-pregnant-now-what/prenatal-care-and-tests). Review the appointment schedule and list of tests that your doctor recommends. 
