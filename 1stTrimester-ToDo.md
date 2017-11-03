@@ -15,7 +15,7 @@
 ###### <a name="1"></a>Week 00 through 04 of 40:  
 You may not know if you're pregnant yet -- most women don't find out they're pregnant until Week 06 or after -- but nevertheless, if you are a sexually-active, regardless of whether or not you are planning for pregnancy, here are some critical things to do during and before this time:
 
-- [ ] Do you have health insurance? If not, call 800-311-BABY (800-311-2229) *as soon as possible* to sign up for free or reduced cost prenatal healthcare in your area. [For 2018 insurance coverage, click here and sign up between November 1–December 15, 2017](https://www.healthcare.gov/). If you need assistance signing up, [localhelp.healthcare.gov](https://localhelp.healthcare.gov) might be able to help.  
+- [ ] Do you have health insurance? If not, call 800-311-BABY (800-311-2229) *as soon as possible* to sign up for free or reduced cost health insurance in your area. [For 2018 insurance coverage, click here and sign up between November 1–December 15, 2017](https://www.healthcare.gov/). If you need assistance signing up, [localhelp.healthcare.gov](https://localhelp.healthcare.gov) might be able to help.  
 
 - [ ] Eating healthy has never been more critical. Are you eligible for Women, Infant and Children benefits? [Find out here](https://wic.fns.usda.gov/wps/pages/start.jsf).  
 
