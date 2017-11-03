@@ -37,10 +37,10 @@ It's right here:
 
 ###### <a name="3"></a>Is the Bean2Baby Guide content free to use?
 ### Bean2Baby Guide content is free for non-commercial use under the [Attribution-NonCommercial 4.0 International (CC BY-NC 4.0)](https://creativecommons.org/licenses/by-nc/4.0/) Creative-Commons license. 
-As an Open Education Resource (OER) we ask that, in return, you follow these guidelines:
+As this is an Open Education Resource (OER) I ask that, in return, you follow these guidelines:
 - Do not use this content for commercial purposes, including selling products, advertising or subscription services.  
 - Display this Creative Commons license wherever you reproduce (online or offline) this and its adapted content.  
-- Attribute and link to us.  
+- Attribute and link to [Bean2Baby](https://github.com/annamatic/Bean2Baby/blob/master/ReadMe.md).  
 - You are free and encouraged to translate this resource to other languages! 
 - Tell us how you’ve used the content so we can link to you on the [Specialized Guides](/SpecializedGuides.md) page.  
 
