@@ -52,7 +52,7 @@ Body Changes
 ---    
 Get help
 
-**Don’t smoke, drink alcohol or do drugs. If you have an addiction,** your doctor can refer you to resources to help you quit. You can also call the Substance Abuse and Mental Health Services Administration National Helpline at 1-800-662-HELP(4357) to be connected to a local service.
+Don’t smoke, drink alcohol or do drugs. There is no amount that is safe for your baby! If you have an addiction, your doctor can refer you to resources to help you quit. You can also call the Substance Abuse and Mental Health Services Administration National Helpline at 1-800-662-HELP(4357) to be connected to a local service.
   - [Smokefree.gov](https://smokefree.gov)
   - [Smokefree Women](https://women.smokefree.gov/0
   - [Substance Abuse and Mental Health Services Administration at findtreatment.samhsa.gov](https://findtreatment.samhsa.gov/)
