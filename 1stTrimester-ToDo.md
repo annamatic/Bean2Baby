@@ -46,7 +46,7 @@ You may not know if you're pregnant yet -- most women don't find out they're pre
 
 - [ ] Start taking 400mcg folic acid daily. This vitamin is important for all women, but especially critical before and during pregnancy, to prevent some major birth defects of the baby’s brain and spine. [Learn more here](https://www.cdc.gov/ncbddd/folicacid/about.html). 
 
-- [ ] Don’t smoke, drink alcohol or do drugs. If you have an addiction, your doctor can refer you to resources to help you quit. You can also call the Substance Abuse and Mental Health Services Administration National Helpline at 1-800-662-HELP(4357) or visit [findtreatment.samhsa.gov](https://findtreatment.samhsa.gov/) to be connected to a local service.
+- [ ] Don’t smoke or drink alcohol. There is no safe level of nicotine, smoke or alcohol for your baby. If you think you might need help, contact the Substance Abuse and Mental Health Services Administration National Helpline at 1-800-662-HELP(4357) or visit [findtreatment.samhsa.gov](https://findtreatment.samhsa.gov/) to be connected to a local service. For help quitting smoking, see [Smokefree.gov](https://smokefree.gov/).
 
 - [ ] How will you know when you're pregnant? See the ["Pregnancy Test Fact Sheet" at www.womenshealth.gov](https://www.womenshealth.gov/files/documents/pregnancy-test-fact-sheet.pdf).  
 
