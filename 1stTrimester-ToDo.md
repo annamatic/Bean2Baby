@@ -69,4 +69,7 @@ Nevertheless, if you are a sexually-active — regardless of whether or not you 
 
 - [ ] Week 12 of 40: When sharing your good news with coworkers, discrimination might be the last thing on your mind. But the truth is that many women are treated unfairly — or even fired — after revealing the news of their pregnancy. [Know your pregnancy rights](https://www.womenshealth.gov/pregnancy/youre-pregnant-now-what/know-your-pregnancy-rights).
 
+----
+----
 
+[Main Index](/ReadMe.md) || [2nd Trimester→](#)
