@@ -61,7 +61,7 @@ As this is an Open Education Resource (OER) I ask that, in return, you follow th
 ----
 
 ###### <a name="5"></a>How are Bean2Baby Tasks written?
-### If you are a healthcare provider/educator or work for a non-profit community or health organization, you are welcome to write and submit Tasks to Bean2Baby! Here is a brief Task "style guide":
+### If you are a healthcare provider/educator or work for a non-profit community or health organization, [you are welcome to write and submit Tasks to Bean2Baby](https://docs.google.com/forms/d/e/1FAIpQLSfTGRDsy6RN6_sZOPL-3aP_FgxCzdOuNjz-Ks-zDBpJ0A9YjA/viewform?c=0&w=1)! Here is a brief Task "style guide":
 - Writing should avoid broad and passively-constructed, albeit "inspiring," wording in favor of more concrete, specific and actionable wording.
 - Writing should address critical issues where users may especially lack support (such as mental health, depression, domestic violence, food deserts) and provide either direct access to a local resource via phone number or hyperlink.
 - Writing should incorporate "if-then" planning, communicate simple “bite-sized” tips towards building healthy habits, routinizing regularly required behaviors and taking into account the access issues that the under-resourced often face.
