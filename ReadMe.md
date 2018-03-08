@@ -67,7 +67,7 @@ As this is an Open Education Resource (OER) I ask that, in return, you follow th
 - Writing should incorporate "if-then" planning, communicate simple “bite-sized” tips towards building healthy habits, routinizing regularly required behaviors and taking into account the access issues that the under-resourced often face.
 - Each task should be limited to 1 action, broken into a “why,” “what” and “how.”
 - Here are examples of incorrectly- and correctly- written Tasks:   
- :x: Eat a healthy diet! A balanced and nutritious diet is essential for your baby's development.
+ :x: Eat a healthy diet! A balanced and nutritious diet is essential for your baby's development.    
  :white_check_mark: Pick up fruits, veggies and protein for the week so you’ll always have a nutritious snack on hand when you get hungry. Is affordable, fresh food hard to find in your area? [WIC may be able to help](http://www.womeninfantschildrenoffice.com/)
 
 ----
