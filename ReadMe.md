@@ -6,7 +6,8 @@
 - [Where is Bean2Baby?](#2)
 - [Is Bean2Baby content free to use?](#3)
 - [How are Bean2Baby lists organized?](#4)
-- [Do you want to help?](#5)
+- [How are Bean2Baby Tasks written?](#5)
+- [Do you want to help?](#6)
 
 ----
 ----
@@ -59,7 +60,20 @@ As this is an Open Education Resource (OER) I ask that, in return, you follow th
 ----
 ----
 
-###### <a name="5"></a>Do you want to help?
+###### <a name="5"></a>How are Bean2Baby Tasks written?
+### If you are a healthcare provider/educator or work for a non-profit community or health organization, you are welcome to write and submit Tasks to Bean2Baby! Here is a brief Task "style guide":
+- Writing should avoid broad and passively-constructed, albeit "inspiring," wording in favor of more concrete, specific and actionable wording.
+- Writing should address critical issues where users may especially lack support (such as mental health, depression, domestic violence, food deserts) and provide either direct access to a local resource via phone number or hyperlink.
+- Writing should incorporate "if-then" planning, communicate simple “bite-sized” tips towards building healthy habits, routinizing regularly required behaviors and taking into account the access issues that the under-resourced often face.
+- Each task should be limited to 1 action, broken into a “why,” “what” and “how.”
+- Here are examples of incorrectly- and correctly- written Tasks:
+❌ Eat a healthy diet! A balanced and nutritious diet is essential for your baby's development.
+✅ Pick up fruits, veggies and protein for the week so you’ll always have a nutritious snack on hand when you get hungry. Is affordable, fresh food hard to find in your area? [WIC may be able to help](http://www.womeninfantschildrenoffice.com/)
+
+----
+----
+
+###### <a name="6"></a>Do you want to help?
 Have a suggestion for a Task or a Resource? [Suggest it here](https://docs.google.com/forms/d/e/1FAIpQLSfTGRDsy6RN6_sZOPL-3aP_FgxCzdOuNjz-Ks-zDBpJ0A9YjA/viewform?c=0&w=1).  
 Want to help? [Contact me](https://github.com/annamatic).  
 
