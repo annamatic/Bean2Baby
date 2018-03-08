@@ -60,7 +60,7 @@ As this is an Open Education Resource (OER) I ask that, in return, you follow th
 ----
 
 ###### <a name="5"></a>Do you want to help?
-Have a suggestion for a Task or a Resource? [Suggest it here](#).  
+Have a suggestion for a Task or a Resource? [Suggest it here](https://docs.google.com/forms/d/e/1FAIpQLSfTGRDsy6RN6_sZOPL-3aP_FgxCzdOuNjz-Ks-zDBpJ0A9YjA/viewform?c=0&w=1).  
 Want to help? [Contact me](https://github.com/annamatic).  
 
 ----
