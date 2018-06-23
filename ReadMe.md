@@ -2,8 +2,8 @@
 ## Hello!
 # A newborn Bean2Baby lives here now: [Bean2Baby](https://sites.google.com/view/bean2baby/about-bean2baby).  
 
-Below, you'll find an early prototype of Bean2Baby, as proposed for an [OpenIDEO](https://github.com/annamatic/OpenIDEO/blob/master/maternal-health.md) challenge titled:  
-**How might we reimagine the new life experience by addressing the diverse challenges of all mothers, babies, and those who care for them?** [You can read my proposal here.](https://github.com/annamatic/OpenIDEO/blob/master/maternal-health.md) [You can view the challenge and other participants' wonderful ideas here](https://challenges.openideo.com/challenge/new-life/).
+### Below, you'll find the first prototype of Bean2Baby, as proposed for the [OpenIDEO New Life Challenge](https://github.com/annamatic/OpenIDEO/blob/master/maternal-health.md).  
+
 ---
 ---
 # Introduction to Bean2Baby
@@ -18,7 +18,7 @@ Below, you'll find an early prototype of Bean2Baby, as proposed for an [OpenIDEO
 ----
 
 ###### <a name="1"></a>What is Bean2Baby?
-### Do you work for a community advocacy, patient advocacy or health organization that serves pregnant and new moms? This resource is for you!
+### Do you work for a community based organization, patient advocacy or health provider that serves pregnant and new moms? This resource is for you!
 The Bean2Baby Guide consists of timeline-based To-do Lists for U.S.-based overwhelmed / under-resourced pregnant and new parents. The content is being compiled and written to focus on providing simple “bite-sized” Tasks oriented towards accessing healthcare and services and building  healthy habits, taking into account the issues that many under-resourced individuals face. [Take a look.](#2) 
 
 This resource grew out of an idea [I proposed](https://github.com/annamatic/OpenIDEO/blob/master/maternal-health.md) for an [OpenIDEO](https://openideo.com/) challenge titled:  
