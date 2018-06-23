@@ -1,8 +1,8 @@
 
 ## Hello!
-# A newborn Bean2Baby lives here now: [Bean2Baby](https://sites.google.com/view/bean2baby/about-bean2baby).  
+# A newborn Bean2Baby lives here now: [Bean2Baby](https://sites.google.com/view/bean2baby/about-bean2baby).     
 
-### Below, you'll find the first prototype of Bean2Baby, as proposed for the [OpenIDEO New Life Challenge](https://github.com/annamatic/OpenIDEO/blob/master/maternal-health.md).  
+Below, you'll find the first prototype of Bean2Baby, as proposed for the [OpenIDEO New Life Challenge](https://github.com/annamatic/OpenIDEO/blob/master/maternal-health.md).  
 
 ---
 ---
